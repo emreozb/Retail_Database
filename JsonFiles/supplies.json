@@ -1,0 +1,1002 @@
+[
+ {
+   "supplier_id": "0B0Qo",
+   "product_id": "00Sez"
+ },
+ {
+   "supplier_id": "0Z45x",
+   "product_id": "0App1"
+ },
+ {
+   "supplier_id": "1PJtu",
+   "product_id": "0bg6t"
+ },
+ {
+   "supplier_id": "1WmFX",
+   "product_id": "0Jl4l"
+ },
+ {
+   "supplier_id": "1u96M",
+   "product_id": "0F3Kq"
+ },
+ {
+   "supplier_id": "29hxS",
+   "product_id": "0tBCl"
+ },
+ {
+   "supplier_id": "2AdOb",
+   "product_id": "0ulkb"
+ },
+ {
+   "supplier_id": "2RoxB",
+   "product_id": "1aRmD"
+ },
+ {
+   "supplier_id": "2VTU1",
+   "product_id": "1bZcE"
+ },
+ {
+   "supplier_id": "2bnwP",
+   "product_id": "0Y2VS"
+ },
+ {
+   "supplier_id": "2m8Bn",
+   "product_id": "0yrCX"
+ },
+ {
+   "supplier_id": "3pPm9",
+   "product_id": "1D2Qm"
+ },
+ {
+   "supplier_id": "4aFHd",
+   "product_id": "1J7yW"
+ },
+ {
+   "supplier_id": "5Ji3C",
+   "product_id": "1mJlh"
+ },
+ {
+   "supplier_id": "5L5R1",
+   "product_id": "1ud5V"
+ },
+ {
+   "supplier_id": "5qnnU",
+   "product_id": "2fZfz"
+ },
+ {
+   "supplier_id": "63XFC",
+   "product_id": "32pzm"
+ },
+ {
+   "supplier_id": "6LbzT",
+   "product_id": "3Ikj9"
+ },
+ {
+   "supplier_id": "6ei3l",
+   "product_id": "39IAO"
+ },
+ {
+   "supplier_id": "7MM1t",
+   "product_id": "3P6UR"
+ },
+ {
+   "supplier_id": "7NFbk",
+   "product_id": "4Or5G"
+ },
+ {
+   "supplier_id": "7uNq7",
+   "product_id": "4rvOU"
+ },
+ {
+   "supplier_id": "8Dj0V",
+   "product_id": "5rHoj"
+ },
+ {
+   "supplier_id": "8aUDx",
+   "product_id": "5pQkb"
+ },
+ {
+   "supplier_id": "8ej6h",
+   "product_id": "5ufx6"
+ },
+ {
+   "supplier_id": "8xmWJ",
+   "product_id": "5XkBD"
+ },
+ {
+   "supplier_id": "9PH3X",
+   "product_id": "646py"
+ },
+ {
+   "supplier_id": "9qNPS",
+   "product_id": "68XLu"
+ },
+ {
+   "supplier_id": "A3994",
+   "product_id": "6gB4p"
+ },
+ {
+   "supplier_id": "ABlpg",
+   "product_id": "6iV8H"
+ },
+ {
+   "supplier_id": "AKTz3",
+   "product_id": "6rA7X"
+ },
+ {
+   "supplier_id": "AQlY2",
+   "product_id": "7FzCI"
+ },
+ {
+   "supplier_id": "B2WiG",
+   "product_id": "7qoEF"
+ },
+ {
+   "supplier_id": "BJ3l6",
+   "product_id": "8Es5i"
+ },
+ {
+   "supplier_id": "BKDzY",
+   "product_id": "8hWky"
+ },
+ {
+   "supplier_id": "BoUrY",
+   "product_id": "8QsBY"
+ },
+ {
+   "supplier_id": "Bwuj6",
+   "product_id": "9tDw2"
+ },
+ {
+   "supplier_id": "CCqJg",
+   "product_id": "amzzJ"
+ },
+ {
+   "supplier_id": "CFTfo",
+   "product_id": "AtcIr"
+ },
+ {
+   "supplier_id": "CMIHy",
+   "product_id": "atUDN"
+ },
+ {
+   "supplier_id": "CPT08",
+   "product_id": "B2UYX"
+ },
+ {
+   "supplier_id": "CzN49",
+   "product_id": "bikHz"
+ },
+ {
+   "supplier_id": "D9zHp",
+   "product_id": "Bukpo"
+ },
+ {
+   "supplier_id": "DEW9m",
+   "product_id": "bWiCS"
+ },
+ {
+   "supplier_id": "DG1zr",
+   "product_id": "c9idy"
+ },
+ {
+   "supplier_id": "DMyXc",
+   "product_id": "CLBVt"
+ },
+ {
+   "supplier_id": "DRHyr",
+   "product_id": "CzGh1"
+ },
+ {
+   "supplier_id": "E5WJt",
+   "product_id": "DHnoO"
+ },
+ {
+   "supplier_id": "ED8pc",
+   "product_id": "DqtXm"
+ },
+ {
+   "supplier_id": "EGdEl",
+   "product_id": "dwVuN"
+ },
+ {
+   "supplier_id": "EJdgU",
+   "product_id": "E8v9k"
+ },
+ {
+   "supplier_id": "EfUNc",
+   "product_id": "Du6Kw"
+ },
+ {
+   "supplier_id": "EnqLB",
+   "product_id": "ebLv8"
+ },
+ {
+   "supplier_id": "FR9Nn",
+   "product_id": "EnMub"
+ },
+ {
+   "supplier_id": "FbGwy",
+   "product_id": "Eg80K"
+ },
+ {
+   "supplier_id": "FdHni",
+   "product_id": "EGvUK"
+ },
+ {
+   "supplier_id": "FimUi",
+   "product_id": "EhZOf"
+ },
+ {
+   "supplier_id": "FuwH7",
+   "product_id": "Esaa0"
+ },
+ {
+   "supplier_id": "G3TcU",
+   "product_id": "eScrY"
+ },
+ {
+   "supplier_id": "G51CP",
+   "product_id": "ESO4Y"
+ },
+ {
+   "supplier_id": "H1zyF",
+   "product_id": "FEhG1"
+ },
+ {
+   "supplier_id": "HgFBB",
+   "product_id": "FR4hQ"
+ },
+ {
+   "supplier_id": "HqE8G",
+   "product_id": "G6RTb"
+ },
+ {
+   "supplier_id": "I2kmH",
+   "product_id": "GHAAi"
+ },
+ {
+   "supplier_id": "I7EF0",
+   "product_id": "gQLu3"
+ },
+ {
+   "supplier_id": "IJ8Bd",
+   "product_id": "gXDBk"
+ },
+ {
+   "supplier_id": "IKrew",
+   "product_id": "h5Ny6"
+ },
+ {
+   "supplier_id": "IMnep",
+   "product_id": "hcTIo"
+ },
+ {
+   "supplier_id": "IPdEe",
+   "product_id": "Hfn6b"
+ },
+ {
+   "supplier_id": "IWYpw",
+   "product_id": "hHfeP"
+ },
+ {
+   "supplier_id": "J0zsG",
+   "product_id": "hMd1T"
+ },
+ {
+   "supplier_id": "KQXFo",
+   "product_id": "IoQET"
+ },
+ {
+   "supplier_id": "KnBUi",
+   "product_id": "IFyJn"
+ },
+ {
+   "supplier_id": "LCVAi",
+   "product_id": "irFLk"
+ },
+ {
+   "supplier_id": "LX6AP",
+   "product_id": "iyIjn"
+ },
+ {
+   "supplier_id": "M4yO2",
+   "product_id": "iZLID"
+ },
+ {
+   "supplier_id": "Mk1n6",
+   "product_id": "jcDsK"
+ },
+ {
+   "supplier_id": "N5yPE",
+   "product_id": "JD2vK"
+ },
+ {
+   "supplier_id": "OatOo",
+   "product_id": "jNFbh"
+ },
+ {
+   "supplier_id": "OuK5P",
+   "product_id": "JrERP"
+ },
+ {
+   "supplier_id": "OxeBq",
+   "product_id": "JsMYm"
+ },
+ {
+   "supplier_id": "PY3bN",
+   "product_id": "lpf0i"
+ },
+ {
+   "supplier_id": "PdC2B",
+   "product_id": "K86Er"
+ },
+ {
+   "supplier_id": "PivC8",
+   "product_id": "klimt"
+ },
+ {
+   "supplier_id": "Ppw4L",
+   "product_id": "kvoWC"
+ },
+ {
+   "supplier_id": "QMq3N",
+   "product_id": "mDYmz"
+ },
+ {
+   "supplier_id": "QNA3V",
+   "product_id": "MGg7T"
+ },
+ {
+   "supplier_id": "QwQKf",
+   "product_id": "MNJJu"
+ },
+ {
+   "supplier_id": "RBN1F",
+   "product_id": "mpNO5"
+ },
+ {
+   "supplier_id": "RHap1",
+   "product_id": "ncWY0"
+ },
+ {
+   "supplier_id": "RLUbD",
+   "product_id": "nfJlV"
+ },
+ {
+   "supplier_id": "RONdg",
+   "product_id": "nItOT"
+ },
+ {
+   "supplier_id": "RPmVT",
+   "product_id": "NlVvr"
+ },
+ {
+   "supplier_id": "SAmFU",
+   "product_id": "nW0UC"
+ },
+ {
+   "supplier_id": "SmClX",
+   "product_id": "OHZyw"
+ },
+ {
+   "supplier_id": "Sp58C",
+   "product_id": "oQCPL"
+ },
+ {
+   "supplier_id": "T8xOf",
+   "product_id": "OtHjx"
+ },
+ {
+   "supplier_id": "TKYhf",
+   "product_id": "Q1Bhp"
+ },
+ {
+   "supplier_id": "TcTf3",
+   "product_id": "OZonz"
+ },
+ {
+   "supplier_id": "Td741",
+   "product_id": "P0yTe"
+ },
+ {
+   "supplier_id": "U16C9",
+   "product_id": "R56bk"
+ },
+ {
+   "supplier_id": "UPmiI",
+   "product_id": "rfHR6"
+ },
+ {
+   "supplier_id": "USdFm",
+   "product_id": "rGxlh"
+ },
+ {
+   "supplier_id": "UZrcl",
+   "product_id": "SAyRY"
+ },
+ {
+   "supplier_id": "UsxKL",
+   "product_id": "ROsa0"
+ },
+ {
+   "supplier_id": "UxO9Y",
+   "product_id": "rzzZJ"
+ },
+ {
+   "supplier_id": "VhSdq",
+   "product_id": "SLywy"
+ },
+ {
+   "supplier_id": "WFODi",
+   "product_id": "T2H3J"
+ },
+ {
+   "supplier_id": "WMdam",
+   "product_id": "Tbc5V"
+ },
+ {
+   "supplier_id": "WOUiT",
+   "product_id": "TIRss"
+ },
+ {
+   "supplier_id": "X65lY",
+   "product_id": "X65lY"
+ },
+ {
+   "supplier_id": "X7Cus",
+   "product_id": "U4xcm"
+ },
+ {
+   "supplier_id": "X9YZZ",
+   "product_id": "Uf1OQ"
+ },
+ {
+   "supplier_id": "XDSfD",
+   "product_id": "UyFfO"
+ },
+ {
+   "supplier_id": "XOh1l",
+   "product_id": "XOh1l"
+ },
+ {
+   "supplier_id": "XhYgb",
+   "product_id": "XhYgb"
+ },
+ {
+   "supplier_id": "Xk5Mq",
+   "product_id": "Xk5Mq"
+ },
+ {
+   "supplier_id": "XnpMn",
+   "product_id": "XnpMn"
+ },
+ {
+   "supplier_id": "XtZD4",
+   "product_id": "XtZD4"
+ },
+ {
+   "supplier_id": "XxdMy",
+   "product_id": "XxdMy"
+ },
+ {
+   "supplier_id": "Xzl8i",
+   "product_id": "Xzl8i"
+ },
+ {
+   "supplier_id": "Y4hNO",
+   "product_id": "Y4hNO"
+ },
+ {
+   "supplier_id": "YRv77",
+   "product_id": "WHnGz"
+ },
+ {
+   "supplier_id": "YUA6D",
+   "product_id": "YUA6D"
+ },
+ {
+   "supplier_id": "YUyvR",
+   "product_id": "WiboC"
+ },
+ {
+   "supplier_id": "YiRvE",
+   "product_id": "YiRvE"
+ },
+ {
+   "supplier_id": "YmCaH",
+   "product_id": "YmCaH"
+ },
+ {
+   "supplier_id": "YmcoG",
+   "product_id": "vU7Ve"
+ },
+ {
+   "supplier_id": "Ynxn0",
+   "product_id": "vuyw2"
+ },
+ {
+   "supplier_id": "Yzc3C",
+   "product_id": "wiD7L"
+ },
+ {
+   "supplier_id": "ZHyc0",
+   "product_id": "Wiow5"
+ },
+ {
+   "supplier_id": "ZKH7a",
+   "product_id": "wkkOY"
+ },
+ {
+   "supplier_id": "ZQ9VZ",
+   "product_id": "WmtF2"
+ },
+ {
+   "supplier_id": "ZTTu2",
+   "product_id": "wp4Wa"
+ },
+ {
+   "supplier_id": "ZbLpV",
+   "product_id": "ZbLpV"
+ },
+ {
+   "supplier_id": "ZdpdT",
+   "product_id": "ZdpdT"
+ },
+ {
+   "supplier_id": "aj8Jn",
+   "product_id": "6os16"
+ },
+ {
+   "supplier_id": "akFoP",
+   "product_id": "6qH8X"
+ },
+ {
+   "supplier_id": "apVCY",
+   "product_id": "6uJr5"
+ },
+ {
+   "supplier_id": "aqysQ",
+   "product_id": "7O3RO"
+ },
+ {
+   "supplier_id": "bPI3q",
+   "product_id": "8RiBi"
+ },
+ {
+   "supplier_id": "bRbDB",
+   "product_id": "9anuC"
+ },
+ {
+   "supplier_id": "bXXCM",
+   "product_id": "ahqdR"
+ },
+ {
+   "supplier_id": "bct0a",
+   "product_id": "7vrqZ"
+ },
+ {
+   "supplier_id": "bj5Oy",
+   "product_id": "8g4e6"
+ },
+ {
+   "supplier_id": "bqFUV",
+   "product_id": "8WDS2"
+ },
+ {
+   "supplier_id": "bqvL4",
+   "product_id": "8yj8i"
+ },
+ {
+   "supplier_id": "bupsI",
+   "product_id": "9gYU6"
+ },
+ {
+   "supplier_id": "cYK5a",
+   "product_id": "bfS7g"
+ },
+ {
+   "supplier_id": "crb7G",
+   "product_id": "BduwR"
+ },
+ {
+   "supplier_id": "d0AGq",
+   "product_id": "bsDZM"
+ },
+ {
+   "supplier_id": "d7TQ1",
+   "product_id": "BtPbz"
+ },
+ {
+   "supplier_id": "dA5zW",
+   "product_id": "BV3tk"
+ },
+ {
+   "supplier_id": "dGwd5",
+   "product_id": "cAlO6"
+ },
+ {
+   "supplier_id": "dOLOS",
+   "product_id": "cSn2O"
+ },
+ {
+   "supplier_id": "dWDSN",
+   "product_id": "daZ11"
+ },
+ {
+   "supplier_id": "dltgK",
+   "product_id": "Cjllp"
+ },
+ {
+   "supplier_id": "do5Wn",
+   "product_id": "cqCKk"
+ },
+ {
+   "supplier_id": "dyaMG",
+   "product_id": "deGT9"
+ },
+ {
+   "supplier_id": "ezkKU",
+   "product_id": "eE6lb"
+ },
+ {
+   "supplier_id": "f6a3z",
+   "product_id": "EeHPo"
+ },
+ {
+   "supplier_id": "fJCuQ",
+   "product_id": "ejzWi"
+ },
+ {
+   "supplier_id": "foeIU",
+   "product_id": "EL4dn"
+ },
+ {
+   "supplier_id": "gEcfc",
+   "product_id": "eVr1i"
+ },
+ {
+   "supplier_id": "gmKC0",
+   "product_id": "EzCDW"
+ },
+ {
+   "supplier_id": "h2Un7",
+   "product_id": "Fhu5C"
+ },
+ {
+   "supplier_id": "h4BhD",
+   "product_id": "fQREI"
+ },
+ {
+   "supplier_id": "hRqGd",
+   "product_id": "gcSC1"
+ },
+ {
+   "supplier_id": "hmCht",
+   "product_id": "fwKUO"
+ },
+ {
+   "supplier_id": "i4el8",
+   "product_id": "GOZQz"
+ },
+ {
+   "supplier_id": "iIOdN",
+   "product_id": "gwVFG"
+ },
+ {
+   "supplier_id": "iSB3u",
+   "product_id": "HGpLK"
+ },
+ {
+   "supplier_id": "iaxBc",
+   "product_id": "gVyh4"
+ },
+ {
+   "supplier_id": "jAML5",
+   "product_id": "hmZUk"
+ },
+ {
+   "supplier_id": "jWTG1",
+   "product_id": "Hu0hI"
+ },
+ {
+   "supplier_id": "jjtQS",
+   "product_id": "hoTWA"
+ },
+ {
+   "supplier_id": "kBEyQ",
+   "product_id": "HViwy"
+ },
+ {
+   "supplier_id": "kNNg1",
+   "product_id": "IhdVo"
+ },
+ {
+   "supplier_id": "kNnq0",
+   "product_id": "IlhbD"
+ },
+ {
+   "supplier_id": "kXsbZ",
+   "product_id": "iqjEb"
+ },
+ {
+   "supplier_id": "kjGVO",
+   "product_id": "HYG7n"
+ },
+ {
+   "supplier_id": "krovO",
+   "product_id": "IqG9T"
+ },
+ {
+   "supplier_id": "ldtzf",
+   "product_id": "Iwzxr"
+ },
+ {
+   "supplier_id": "mdfji",
+   "product_id": "j4GQ6"
+ },
+ {
+   "supplier_id": "nfIWB",
+   "product_id": "jEK5h"
+ },
+ {
+   "supplier_id": "o0n5g",
+   "product_id": "JfbyD"
+ },
+ {
+   "supplier_id": "oUwTu",
+   "product_id": "jScm9"
+ },
+ {
+   "supplier_id": "p3DUx",
+   "product_id": "K1Tm6"
+ },
+ {
+   "supplier_id": "pHMuB",
+   "product_id": "KAFG0"
+ },
+ {
+   "supplier_id": "pX9Ec",
+   "product_id": "lIPxf"
+ },
+ {
+   "supplier_id": "pokKi",
+   "product_id": "KuyXp"
+ },
+ {
+   "supplier_id": "pumog",
+   "product_id": "L1WIM"
+ },
+ {
+   "supplier_id": "q2TDz",
+   "product_id": "m19Ls"
+ },
+ {
+   "supplier_id": "q3l1V",
+   "product_id": "m1P7O"
+ },
+ {
+   "supplier_id": "qAolP",
+   "product_id": "maX6Z"
+ },
+ {
+   "supplier_id": "qQm6b",
+   "product_id": "MI2xC"
+ },
+ {
+   "supplier_id": "qRoMS",
+   "product_id": "mmblg"
+ },
+ {
+   "supplier_id": "rELtu",
+   "product_id": "Mx2WK"
+ },
+ {
+   "supplier_id": "rEWYL",
+   "product_id": "N4Zaa"
+ },
+ {
+   "supplier_id": "rdvzB",
+   "product_id": "mSuJT"
+ },
+ {
+   "supplier_id": "s5obZ",
+   "product_id": "NsHjm"
+ },
+ {
+   "supplier_id": "sEmTC",
+   "product_id": "NwvtD"
+ },
+ {
+   "supplier_id": "sGYAI",
+   "product_id": "o4XRG"
+ },
+ {
+   "supplier_id": "seO0Y",
+   "product_id": "nzxvn"
+ },
+ {
+   "supplier_id": "slsGd",
+   "product_id": "oCNpy"
+ },
+ {
+   "supplier_id": "sm0wl",
+   "product_id": "OHfX1"
+ },
+ {
+   "supplier_id": "tA5s8",
+   "product_id": "oxMFZ"
+ },
+ {
+   "supplier_id": "tHceF",
+   "product_id": "P7CBR"
+ },
+ {
+   "supplier_id": "tIeQU",
+   "product_id": "PoSxK"
+ },
+ {
+   "supplier_id": "tL0Fk",
+   "product_id": "qESIh"
+ },
+ {
+   "supplier_id": "tOrH9",
+   "product_id": "QhxZ5"
+ },
+ {
+   "supplier_id": "tYwWT",
+   "product_id": "qZ8pj"
+ },
+ {
+   "supplier_id": "tgqqx",
+   "product_id": "P3xaA"
+ },
+ {
+   "supplier_id": "tte7L",
+   "product_id": "qmWgn"
+ },
+ {
+   "supplier_id": "tvpvX",
+   "product_id": "QoxQf"
+ },
+ {
+   "supplier_id": "u1CKq",
+   "product_id": "R5aPR"
+ },
+ {
+   "supplier_id": "u2LA6",
+   "product_id": "r8xyT"
+ },
+ {
+   "supplier_id": "uDGtx",
+   "product_id": "rbUeL"
+ },
+ {
+   "supplier_id": "uT2m9",
+   "product_id": "RvLSw"
+ },
+ {
+   "supplier_id": "uqVkr",
+   "product_id": "rgjFX"
+ },
+ {
+   "supplier_id": "v4fx2",
+   "product_id": "SD15F"
+ },
+ {
+   "supplier_id": "vElf4",
+   "product_id": "SHbyU"
+ },
+ {
+   "supplier_id": "vJ2tB",
+   "product_id": "srZck"
+ },
+ {
+   "supplier_id": "vK6Yb",
+   "product_id": "SVnOi"
+ },
+ {
+   "supplier_id": "vPUo2",
+   "product_id": "SZAe8"
+ },
+ {
+   "supplier_id": "w3MPO",
+   "product_id": "SZPfl"
+ },
+ {
+   "supplier_id": "wJ9FR",
+   "product_id": "T2y60"
+ },
+ {
+   "supplier_id": "wO2YE",
+   "product_id": "Tczeq"
+ },
+ {
+   "supplier_id": "wqabz",
+   "product_id": "TkYuy"
+ },
+ {
+   "supplier_id": "wxVrc",
+   "product_id": "tq9JJ"
+ },
+ {
+   "supplier_id": "x4pkF",
+   "product_id": "tr9lK"
+ },
+ {
+   "supplier_id": "x7xTV",
+   "product_id": "Ub1xu"
+ },
+ {
+   "supplier_id": "xB2vu",
+   "product_id": "xB2vu"
+ },
+ {
+   "supplier_id": "xDzz5",
+   "product_id": "xDzz5"
+ },
+ {
+   "supplier_id": "xP9nN",
+   "product_id": "Vcy1n"
+ },
+ {
+   "supplier_id": "xSZq3",
+   "product_id": "xSZq3"
+ },
+ {
+   "supplier_id": "xd2rD",
+   "product_id": "UFf1v"
+ },
+ {
+   "supplier_id": "xdc8o",
+   "product_id": "UWtO9"
+ },
+ {
+   "supplier_id": "xs5EW",
+   "product_id": "xs5EW"
+ },
+ {
+   "supplier_id": "xsHp4",
+   "product_id": "xsHp4"
+ },
+ {
+   "supplier_id": "y4dwD",
+   "product_id": "VNRfG"
+ },
+ {
+   "supplier_id": "yNqT0",
+   "product_id": "yNqT0"
+ },
+ {
+   "supplier_id": "yOGxQ",
+   "product_id": "W2rjo"
+ },
+ {
+   "supplier_id": "ykSEN",
+   "product_id": "ykSEN"
+ },
+ {
+   "supplier_id": "yqcFS",
+   "product_id": "weZjQ"
+ },
+ {
+   "supplier_id": "z3fPO",
+   "product_id": "z3fPO"
+ },
+ {
+   "supplier_id": "zJWUK",
+   "product_id": "zJWUK"
+ },
+ {
+   "supplier_id": "zKMhT",
+   "product_id": "wKSOn"
+ },
+ {
+   "supplier_id": "zwSW4",
+   "product_id": "WzTb7"
+ },
+ {
+   "supplier_id": "zzEEV",
+   "product_id": "X60bU"
+ }
+]

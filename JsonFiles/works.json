@@ -1,0 +1,782 @@
+[
+ {
+   "store_id": 10123,
+   "e_id": 119,
+   "manager_id": 1
+ },
+ {
+   "store_id": 10174,
+   "e_id": 122,
+   "manager_id": 2
+ },
+ {
+   "store_id": 10236,
+   "e_id": 123,
+   "manager_id": 3
+ },
+ {
+   "store_id": 10382,
+   "e_id": 128,
+   "manager_id": 4
+ },
+ {
+   "store_id": 10810,
+   "e_id": 130,
+   "manager_id": 5
+ },
+ {
+   "store_id": 10888,
+   "e_id": 131,
+   "manager_id": 6
+ },
+ {
+   "store_id": 11044,
+   "e_id": 137,
+   "manager_id": 7
+ },
+ {
+   "store_id": 11272,
+   "e_id": 138,
+   "manager_id": 8
+ },
+ {
+   "store_id": 12077,
+   "e_id": 141,
+   "manager_id": 9
+ },
+ {
+   "store_id": 12431,
+   "e_id": 142,
+   "manager_id": 10
+ },
+ {
+   "store_id": 12795,
+   "e_id": 160,
+   "manager_id": 11
+ },
+ {
+   "store_id": 12806,
+   "e_id": 163,
+   "manager_id": 12
+ },
+ {
+   "store_id": 12809,
+   "e_id": 179,
+   "manager_id": 13
+ },
+ {
+   "store_id": 13326,
+   "e_id": 201,
+   "manager_id": 14
+ },
+ {
+   "store_id": 13404,
+   "e_id": 203,
+   "manager_id": 15
+ },
+ {
+   "store_id": 13580,
+   "e_id": 206,
+   "manager_id": 16
+ },
+ {
+   "store_id": 13591,
+   "e_id": 209,
+   "manager_id": 17
+ },
+ {
+   "store_id": 13649,
+   "e_id": 211,
+   "manager_id": 18
+ },
+ {
+   "store_id": 13933,
+   "e_id": 213,
+   "manager_id": 19
+ },
+ {
+   "store_id": 13955,
+   "e_id": 215,
+   "manager_id": 20
+ },
+ {
+   "store_id": 13980,
+   "e_id": 218,
+   "manager_id": 21
+ },
+ {
+   "store_id": 14130,
+   "e_id": 219,
+   "manager_id": 22
+ },
+ {
+   "store_id": 14307,
+   "e_id": 226,
+   "manager_id": 23
+ },
+ {
+   "store_id": 14331,
+   "e_id": 243,
+   "manager_id": 24
+ },
+ {
+   "store_id": 14371,
+   "e_id": 246,
+   "manager_id": 25
+ },
+ {
+   "store_id": 14465,
+   "e_id": 252,
+   "manager_id": 26
+ },
+ {
+   "store_id": 14614,
+   "e_id": 255,
+   "manager_id": 27
+ },
+ {
+   "store_id": 14651,
+   "e_id": 258,
+   "manager_id": 28
+ },
+ {
+   "store_id": 14813,
+   "e_id": 261,
+   "manager_id": 29
+ },
+ {
+   "store_id": 14820,
+   "e_id": 262,
+   "manager_id": 30
+ },
+ {
+   "store_id": 15273,
+   "e_id": 266,
+   "manager_id": 31
+ },
+ {
+   "store_id": 15368,
+   "e_id": 271,
+   "manager_id": 32
+ },
+ {
+   "store_id": 15387,
+   "e_id": 283,
+   "manager_id": 33
+ },
+ {
+   "store_id": 15584,
+   "e_id": 286,
+   "manager_id": 34
+ },
+ {
+   "store_id": 15599,
+   "e_id": 292,
+   "manager_id": 35
+ },
+ {
+   "store_id": 15646,
+   "e_id": 293,
+   "manager_id": 36
+ },
+ {
+   "store_id": 15660,
+   "e_id": 307,
+   "manager_id": 37
+ },
+ {
+   "store_id": 15855,
+   "e_id": 311,
+   "manager_id": 38
+ },
+ {
+   "store_id": 15982,
+   "e_id": 313,
+   "manager_id": 39
+ },
+ {
+   "store_id": 16017,
+   "e_id": 317,
+   "manager_id": 40
+ },
+ {
+   "store_id": 16181,
+   "e_id": 319,
+   "manager_id": 41
+ },
+ {
+   "store_id": 16316,
+   "e_id": 339,
+   "manager_id": 42
+ },
+ {
+   "store_id": 16330,
+   "e_id": 353,
+   "manager_id": 43
+ },
+ {
+   "store_id": 16521,
+   "e_id": 354,
+   "manager_id": 44
+ },
+ {
+   "store_id": 16609,
+   "e_id": 357,
+   "manager_id": 45
+ },
+ {
+   "store_id": 16656,
+   "e_id": 362,
+   "manager_id": 46
+ },
+ {
+   "store_id": 16792,
+   "e_id": 368,
+   "manager_id": 47
+ },
+ {
+   "store_id": 16987,
+   "e_id": 370,
+   "manager_id": 48
+ },
+ {
+   "store_id": 17084,
+   "e_id": 380,
+   "manager_id": 49
+ },
+ {
+   "store_id": 17189,
+   "e_id": 388,
+   "manager_id": 50
+ },
+ {
+   "store_id": 17280,
+   "e_id": 404,
+   "manager_id": 51
+ },
+ {
+   "store_id": 17526,
+   "e_id": 406,
+   "manager_id": 52
+ },
+ {
+   "store_id": 17732,
+   "e_id": 407,
+   "manager_id": 53
+ },
+ {
+   "store_id": 17894,
+   "e_id": 423,
+   "manager_id": 54
+ },
+ {
+   "store_id": 17943,
+   "e_id": 427,
+   "manager_id": 55
+ },
+ {
+   "store_id": 18171,
+   "e_id": 432,
+   "manager_id": 56
+ },
+ {
+   "store_id": 18307,
+   "e_id": 450,
+   "manager_id": 57
+ },
+ {
+   "store_id": 18833,
+   "e_id": 456,
+   "manager_id": 58
+ },
+ {
+   "store_id": 18936,
+   "e_id": 473,
+   "manager_id": 59
+ },
+ {
+   "store_id": 19148,
+   "e_id": 481,
+   "manager_id": 60
+ },
+ {
+   "store_id": 19205,
+   "e_id": 483,
+   "manager_id": 61
+ },
+ {
+   "store_id": 19255,
+   "e_id": 485,
+   "manager_id": 62
+ },
+ {
+   "store_id": 19340,
+   "e_id": 489,
+   "manager_id": 63
+ },
+ {
+   "store_id": 19358,
+   "e_id": 495,
+   "manager_id": 64
+ },
+ {
+   "store_id": 19384,
+   "e_id": 496,
+   "manager_id": 65
+ },
+ {
+   "store_id": 19524,
+   "e_id": 510,
+   "manager_id": 66
+ },
+ {
+   "store_id": 19599,
+   "e_id": 513,
+   "manager_id": 67
+ },
+ {
+   "store_id": 19916,
+   "e_id": 516,
+   "manager_id": 68
+ },
+ {
+   "store_id": 19983,
+   "e_id": 530,
+   "manager_id": 69
+ },
+ {
+   "store_id": 20036,
+   "e_id": 533,
+   "manager_id": 70
+ },
+ {
+   "store_id": 20174,
+   "e_id": 542,
+   "manager_id": 71
+ },
+ {
+   "store_id": 20291,
+   "e_id": 544,
+   "manager_id": 72
+ },
+ {
+   "store_id": 20315,
+   "e_id": 561,
+   "manager_id": 73
+ },
+ {
+   "store_id": 20548,
+   "e_id": 563,
+   "manager_id": 74
+ },
+ {
+   "store_id": 20796,
+   "e_id": 564,
+   "manager_id": 75
+ },
+ {
+   "store_id": 20886,
+   "e_id": 565,
+   "manager_id": 76
+ },
+ {
+   "store_id": 21388,
+   "e_id": 566,
+   "manager_id": 77
+ },
+ {
+   "store_id": 21668,
+   "e_id": 569,
+   "manager_id": 78
+ },
+ {
+   "store_id": 21769,
+   "e_id": 577,
+   "manager_id": 79
+ },
+ {
+   "store_id": 21835,
+   "e_id": 580,
+   "manager_id": 80
+ },
+ {
+   "store_id": 22360,
+   "e_id": 585,
+   "manager_id": 81
+ },
+ {
+   "store_id": 22415,
+   "e_id": 587,
+   "manager_id": 82
+ },
+ {
+   "store_id": 22738,
+   "e_id": 589,
+   "manager_id": 83
+ },
+ {
+   "store_id": 22774,
+   "e_id": 593,
+   "manager_id": 84
+ },
+ {
+   "store_id": 22859,
+   "e_id": 596,
+   "manager_id": 85
+ },
+ {
+   "store_id": 22881,
+   "e_id": 611,
+   "manager_id": 86
+ },
+ {
+   "store_id": 22953,
+   "e_id": 613,
+   "manager_id": 87
+ },
+ {
+   "store_id": 23031,
+   "e_id": 615,
+   "manager_id": 88
+ },
+ {
+   "store_id": 23294,
+   "e_id": 619,
+   "manager_id": 89
+ },
+ {
+   "store_id": 23299,
+   "e_id": 620,
+   "manager_id": 90
+ },
+ {
+   "store_id": 23374,
+   "e_id": 632,
+   "manager_id": 91
+ },
+ {
+   "store_id": 23505,
+   "e_id": 652,
+   "manager_id": 92
+ },
+ {
+   "store_id": 23523,
+   "e_id": 658,
+   "manager_id": 93
+ },
+ {
+   "store_id": 23542,
+   "e_id": 662,
+   "manager_id": 94
+ },
+ {
+   "store_id": 23748,
+   "e_id": 669,
+   "manager_id": 95
+ },
+ {
+   "store_id": 23899,
+   "e_id": 676,
+   "manager_id": 96
+ },
+ {
+   "store_id": 23923,
+   "e_id": 678,
+   "manager_id": 97
+ },
+ {
+   "store_id": 24148,
+   "e_id": 687,
+   "manager_id": 98
+ },
+ {
+   "store_id": 24623,
+   "e_id": 692,
+   "manager_id": 99
+ },
+ {
+   "store_id": 24661,
+   "e_id": 700,
+   "manager_id": 100
+ },
+ {
+   "store_id": 24735,
+   "e_id": 710,
+   "manager_id": 101
+ },
+ {
+   "store_id": 24952,
+   "e_id": 711,
+   "manager_id": 102
+ },
+ {
+   "store_id": 24989,
+   "e_id": 732,
+   "manager_id": 103
+ },
+ {
+   "store_id": 25153,
+   "e_id": 735,
+   "manager_id": 104
+ },
+ {
+   "store_id": 25208,
+   "e_id": 736,
+   "manager_id": 105
+ },
+ {
+   "store_id": 25379,
+   "e_id": 737,
+   "manager_id": 106
+ },
+ {
+   "store_id": 25664,
+   "e_id": 738,
+   "manager_id": 107
+ },
+ {
+   "store_id": 26016,
+   "e_id": 740,
+   "manager_id": 108
+ },
+ {
+   "store_id": 26055,
+   "e_id": 742,
+   "manager_id": 109
+ },
+ {
+   "store_id": 26066,
+   "e_id": 745,
+   "manager_id": 110
+ },
+ {
+   "store_id": 26321,
+   "e_id": 761,
+   "manager_id": 111
+ },
+ {
+   "store_id": 26449,
+   "e_id": 766,
+   "manager_id": 112
+ },
+ {
+   "store_id": 26557,
+   "e_id": 770,
+   "manager_id": 113
+ },
+ {
+   "store_id": 26698,
+   "e_id": 775,
+   "manager_id": 114
+ },
+ {
+   "store_id": 26918,
+   "e_id": 777,
+   "manager_id": 115
+ },
+ {
+   "store_id": 27244,
+   "e_id": 778,
+   "manager_id": 116
+ },
+ {
+   "store_id": 27562,
+   "e_id": 781,
+   "manager_id": 117
+ },
+ {
+   "store_id": 27575,
+   "e_id": 788,
+   "manager_id": 118
+ },
+ {
+   "store_id": 27581,
+   "e_id": 791,
+   "manager_id": 119
+ },
+ {
+   "store_id": 27664,
+   "e_id": 796,
+   "manager_id": 120
+ },
+ {
+   "store_id": 27927,
+   "e_id": 804,
+   "manager_id": 121
+ },
+ {
+   "store_id": 28106,
+   "e_id": 808,
+   "manager_id": 122
+ },
+ {
+   "store_id": 28820,
+   "e_id": 812,
+   "manager_id": 123
+ },
+ {
+   "store_id": 28906,
+   "e_id": 815,
+   "manager_id": 124
+ },
+ {
+   "store_id": 29108,
+   "e_id": 828,
+   "manager_id": 125
+ },
+ {
+   "store_id": 29370,
+   "e_id": 836,
+   "manager_id": 126
+ },
+ {
+   "store_id": 29571,
+   "e_id": 842,
+   "manager_id": 127
+ },
+ {
+   "store_id": 29667,
+   "e_id": 843,
+   "manager_id": 128
+ },
+ {
+   "store_id": 29920,
+   "e_id": 849,
+   "manager_id": 129
+ },
+ {
+   "store_id": 29983,
+   "e_id": 854,
+   "manager_id": 130
+ },
+ {
+   "store_id": 30056,
+   "e_id": 855,
+   "manager_id": 131
+ },
+ {
+   "store_id": 30339,
+   "e_id": 868,
+   "manager_id": 132
+ },
+ {
+   "store_id": 30344,
+   "e_id": 872,
+   "manager_id": 133
+ },
+ {
+   "store_id": 30669,
+   "e_id": 874,
+   "manager_id": 134
+ },
+ {
+   "store_id": 30994,
+   "e_id": 879,
+   "manager_id": 135
+ },
+ {
+   "store_id": 31163,
+   "e_id": 883,
+   "manager_id": 136
+ },
+ {
+   "store_id": 31481,
+   "e_id": 884,
+   "manager_id": 137
+ },
+ {
+   "store_id": 31523,
+   "e_id": 885,
+   "manager_id": 138
+ },
+ {
+   "store_id": 31642,
+   "e_id": 892,
+   "manager_id": 139
+ },
+ {
+   "store_id": 31774,
+   "e_id": 896,
+   "manager_id": 140
+ },
+ {
+   "store_id": 32180,
+   "e_id": 901,
+   "manager_id": 141
+ },
+ {
+   "store_id": 32239,
+   "e_id": 908,
+   "manager_id": 142
+ },
+ {
+   "store_id": 32258,
+   "e_id": 916,
+   "manager_id": 143
+ },
+ {
+   "store_id": 32333,
+   "e_id": 926,
+   "manager_id": 144
+ },
+ {
+   "store_id": 32347,
+   "e_id": 929,
+   "manager_id": 145
+ },
+ {
+   "store_id": 32674,
+   "e_id": 934,
+   "manager_id": 146
+ },
+ {
+   "store_id": 32720,
+   "e_id": 935,
+   "manager_id": 147
+ },
+ {
+   "store_id": 32748,
+   "e_id": 938,
+   "manager_id": 148
+ },
+ {
+   "store_id": 32942,
+   "e_id": 951,
+   "manager_id": 149
+ },
+ {
+   "store_id": 33004,
+   "e_id": 956,
+   "manager_id": 150
+ },
+ {
+   "store_id": 33062,
+   "e_id": 969,
+   "manager_id": 151
+ },
+ {
+   "store_id": 33133,
+   "e_id": 973,
+   "manager_id": 152
+ },
+ {
+   "store_id": 33237,
+   "e_id": 976,
+   "manager_id": 153
+ },
+ {
+   "store_id": 33266,
+   "e_id": 987,
+   "manager_id": 154
+ },
+ {
+   "store_id": 33341,
+   "e_id": 988,
+   "manager_id": 155
+ },
+ {
+   "store_id": 33820,
+   "e_id": 997,
+   "manager_id": 156
+ }
+]

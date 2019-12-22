@@ -1,0 +1,998 @@
+[
+ {
+   "store_id": 10123,
+   "product_id": "00Sez"
+ },
+ {
+   "store_id": 10174,
+   "product_id": "0App1"
+ },
+ {
+   "store_id": 10236,
+   "product_id": "0bg6t"
+ },
+ {
+   "store_id": 10382,
+   "product_id": "0F3Kq"
+ },
+ {
+   "store_id": 10810,
+   "product_id": "0Jl4l"
+ },
+ {
+   "store_id": 10888,
+   "product_id": "0tBCl"
+ },
+ {
+   "store_id": 11044,
+   "product_id": "0ulkb"
+ },
+ {
+   "store_id": 11272,
+   "product_id": "0Y2VS"
+ },
+ {
+   "store_id": 12077,
+   "product_id": "0yrCX"
+ },
+ {
+   "store_id": 12431,
+   "product_id": "1aRmD"
+ },
+ {
+   "store_id": 12795,
+   "product_id": "1bZcE"
+ },
+ {
+   "store_id": 12806,
+   "product_id": "1D2Qm"
+ },
+ {
+   "store_id": 12809,
+   "product_id": "1J7yW"
+ },
+ {
+   "store_id": 13326,
+   "product_id": "1mJlh"
+ },
+ {
+   "store_id": 13404,
+   "product_id": "1ud5V"
+ },
+ {
+   "store_id": 13580,
+   "product_id": "2fZfz"
+ },
+ {
+   "store_id": 13591,
+   "product_id": "32pzm"
+ },
+ {
+   "store_id": 13649,
+   "product_id": "39IAO"
+ },
+ {
+   "store_id": 13933,
+   "product_id": "3Ikj9"
+ },
+ {
+   "store_id": 13955,
+   "product_id": "3P6UR"
+ },
+ {
+   "store_id": 13980,
+   "product_id": "4Or5G"
+ },
+ {
+   "store_id": 14130,
+   "product_id": "4rvOU"
+ },
+ {
+   "store_id": 14307,
+   "product_id": "5pQkb"
+ },
+ {
+   "store_id": 14331,
+   "product_id": "5rHoj"
+ },
+ {
+   "store_id": 14371,
+   "product_id": "5ufx6"
+ },
+ {
+   "store_id": 14465,
+   "product_id": "5XkBD"
+ },
+ {
+   "store_id": 14614,
+   "product_id": "646py"
+ },
+ {
+   "store_id": 14651,
+   "product_id": "68XLu"
+ },
+ {
+   "store_id": 14813,
+   "product_id": "6gB4p"
+ },
+ {
+   "store_id": 14820,
+   "product_id": "6iV8H"
+ },
+ {
+   "store_id": 15273,
+   "product_id": "6os16"
+ },
+ {
+   "store_id": 15368,
+   "product_id": "6qH8X"
+ },
+ {
+   "store_id": 15387,
+   "product_id": "6rA7X"
+ },
+ {
+   "store_id": 15584,
+   "product_id": "6uJr5"
+ },
+ {
+   "store_id": 15599,
+   "product_id": "7FzCI"
+ },
+ {
+   "store_id": 15646,
+   "product_id": "7O3RO"
+ },
+ {
+   "store_id": 15660,
+   "product_id": "7qoEF"
+ },
+ {
+   "store_id": 15855,
+   "product_id": "7vrqZ"
+ },
+ {
+   "store_id": 15982,
+   "product_id": "8Es5i"
+ },
+ {
+   "store_id": 16017,
+   "product_id": "8g4e6"
+ },
+ {
+   "store_id": 16181,
+   "product_id": "8hWky"
+ },
+ {
+   "store_id": 16316,
+   "product_id": "8QsBY"
+ },
+ {
+   "store_id": 16330,
+   "product_id": "8RiBi"
+ },
+ {
+   "store_id": 16521,
+   "product_id": "8WDS2"
+ },
+ {
+   "store_id": 16609,
+   "product_id": "8yj8i"
+ },
+ {
+   "store_id": 16656,
+   "product_id": "9anuC"
+ },
+ {
+   "store_id": 16792,
+   "product_id": "9gYU6"
+ },
+ {
+   "store_id": 16987,
+   "product_id": "9tDw2"
+ },
+ {
+   "store_id": 17084,
+   "product_id": "ahqdR"
+ },
+ {
+   "store_id": 17189,
+   "product_id": "amzzJ"
+ },
+ {
+   "store_id": 17280,
+   "product_id": "AtcIr"
+ },
+ {
+   "store_id": 17526,
+   "product_id": "atUDN"
+ },
+ {
+   "store_id": 17732,
+   "product_id": "B2UYX"
+ },
+ {
+   "store_id": 17894,
+   "product_id": "BduwR"
+ },
+ {
+   "store_id": 17943,
+   "product_id": "bfS7g"
+ },
+ {
+   "store_id": 18171,
+   "product_id": "bikHz"
+ },
+ {
+   "store_id": 18307,
+   "product_id": "bsDZM"
+ },
+ {
+   "store_id": 18833,
+   "product_id": "BtPbz"
+ },
+ {
+   "store_id": 18936,
+   "product_id": "Bukpo"
+ },
+ {
+   "store_id": 19148,
+   "product_id": "BV3tk"
+ },
+ {
+   "store_id": 19205,
+   "product_id": "bWiCS"
+ },
+ {
+   "store_id": 19255,
+   "product_id": "c9idy"
+ },
+ {
+   "store_id": 19340,
+   "product_id": "cAlO6"
+ },
+ {
+   "store_id": 19358,
+   "product_id": "Cjllp"
+ },
+ {
+   "store_id": 19384,
+   "product_id": "CLBVt"
+ },
+ {
+   "store_id": 19524,
+   "product_id": "cqCKk"
+ },
+ {
+   "store_id": 19599,
+   "product_id": "cSn2O"
+ },
+ {
+   "store_id": 19916,
+   "product_id": "CzGh1"
+ },
+ {
+   "store_id": 19983,
+   "product_id": "daZ11"
+ },
+ {
+   "store_id": 20036,
+   "product_id": "deGT9"
+ },
+ {
+   "store_id": 20174,
+   "product_id": "DHnoO"
+ },
+ {
+   "store_id": 20291,
+   "product_id": "DqtXm"
+ },
+ {
+   "store_id": 20315,
+   "product_id": "Du6Kw"
+ },
+ {
+   "store_id": 20548,
+   "product_id": "dwVuN"
+ },
+ {
+   "store_id": 20796,
+   "product_id": "E8v9k"
+ },
+ {
+   "store_id": 20886,
+   "product_id": "ebLv8"
+ },
+ {
+   "store_id": 21388,
+   "product_id": "eE6lb"
+ },
+ {
+   "store_id": 21668,
+   "product_id": "EeHPo"
+ },
+ {
+   "store_id": 21769,
+   "product_id": "Eg80K"
+ },
+ {
+   "store_id": 21835,
+   "product_id": "EGvUK"
+ },
+ {
+   "store_id": 22360,
+   "product_id": "EhZOf"
+ },
+ {
+   "store_id": 22415,
+   "product_id": "ejzWi"
+ },
+ {
+   "store_id": 22738,
+   "product_id": "EL4dn"
+ },
+ {
+   "store_id": 22774,
+   "product_id": "EnMub"
+ },
+ {
+   "store_id": 22859,
+   "product_id": "Esaa0"
+ },
+ {
+   "store_id": 22881,
+   "product_id": "eScrY"
+ },
+ {
+   "store_id": 22953,
+   "product_id": "ESO4Y"
+ },
+ {
+   "store_id": 23031,
+   "product_id": "eVr1i"
+ },
+ {
+   "store_id": 23294,
+   "product_id": "EzCDW"
+ },
+ {
+   "store_id": 23299,
+   "product_id": "FEhG1"
+ },
+ {
+   "store_id": 23374,
+   "product_id": "Fhu5C"
+ },
+ {
+   "store_id": 23505,
+   "product_id": "fQREI"
+ },
+ {
+   "store_id": 23523,
+   "product_id": "FR4hQ"
+ },
+ {
+   "store_id": 23542,
+   "product_id": "fwKUO"
+ },
+ {
+   "store_id": 23748,
+   "product_id": "G6RTb"
+ },
+ {
+   "store_id": 23899,
+   "product_id": "gcSC1"
+ },
+ {
+   "store_id": 23923,
+   "product_id": "GHAAi"
+ },
+ {
+   "store_id": 24148,
+   "product_id": "GOZQz"
+ },
+ {
+   "store_id": 24623,
+   "product_id": "gQLu3"
+ },
+ {
+   "store_id": 24661,
+   "product_id": "gVyh4"
+ },
+ {
+   "store_id": 24735,
+   "product_id": "gwVFG"
+ },
+ {
+   "store_id": 24952,
+   "product_id": "gXDBk"
+ },
+ {
+   "store_id": 24989,
+   "product_id": "h5Ny6"
+ },
+ {
+   "store_id": 25153,
+   "product_id": "hcTIo"
+ },
+ {
+   "store_id": 25208,
+   "product_id": "Hfn6b"
+ },
+ {
+   "store_id": 25379,
+   "product_id": "HGpLK"
+ },
+ {
+   "store_id": 25664,
+   "product_id": "hHfeP"
+ },
+ {
+   "store_id": 26016,
+   "product_id": "hMd1T"
+ },
+ {
+   "store_id": 26055,
+   "product_id": "hmZUk"
+ },
+ {
+   "store_id": 26066,
+   "product_id": "hoTWA"
+ },
+ {
+   "store_id": 26321,
+   "product_id": "Hu0hI"
+ },
+ {
+   "store_id": 26449,
+   "product_id": "HViwy"
+ },
+ {
+   "store_id": 26557,
+   "product_id": "HYG7n"
+ },
+ {
+   "store_id": 26698,
+   "product_id": "IFyJn"
+ },
+ {
+   "store_id": 26918,
+   "product_id": "IhdVo"
+ },
+ {
+   "store_id": 27244,
+   "product_id": "IlhbD"
+ },
+ {
+   "store_id": 27562,
+   "product_id": "IoQET"
+ },
+ {
+   "store_id": 27575,
+   "product_id": "IqG9T"
+ },
+ {
+   "store_id": 27581,
+   "product_id": "iqjEb"
+ },
+ {
+   "store_id": 27664,
+   "product_id": "irFLk"
+ },
+ {
+   "store_id": 27927,
+   "product_id": "Iwzxr"
+ },
+ {
+   "store_id": 28106,
+   "product_id": "iyIjn"
+ },
+ {
+   "store_id": 28820,
+   "product_id": "iZLID"
+ },
+ {
+   "store_id": 28906,
+   "product_id": "j4GQ6"
+ },
+ {
+   "store_id": 29108,
+   "product_id": "jcDsK"
+ },
+ {
+   "store_id": 29370,
+   "product_id": "JD2vK"
+ },
+ {
+   "store_id": 29571,
+   "product_id": "jEK5h"
+ },
+ {
+   "store_id": 29667,
+   "product_id": "JfbyD"
+ },
+ {
+   "store_id": 29920,
+   "product_id": "jNFbh"
+ },
+ {
+   "store_id": 29983,
+   "product_id": "JrERP"
+ },
+ {
+   "store_id": 30056,
+   "product_id": "jScm9"
+ },
+ {
+   "store_id": 30339,
+   "product_id": "JsMYm"
+ },
+ {
+   "store_id": 30344,
+   "product_id": "K1Tm6"
+ },
+ {
+   "store_id": 30669,
+   "product_id": "K86Er"
+ },
+ {
+   "store_id": 30994,
+   "product_id": "KAFG0"
+ },
+ {
+   "store_id": 31163,
+   "product_id": "klimt"
+ },
+ {
+   "store_id": 31481,
+   "product_id": "KuyXp"
+ },
+ {
+   "store_id": 31523,
+   "product_id": "kvoWC"
+ },
+ {
+   "store_id": 31642,
+   "product_id": "L1WIM"
+ },
+ {
+   "store_id": 31774,
+   "product_id": "lIPxf"
+ },
+ {
+   "store_id": 32180,
+   "product_id": "lpf0i"
+ },
+ {
+   "store_id": 32239,
+   "product_id": "m19Ls"
+ },
+ {
+   "store_id": 32258,
+   "product_id": "m1P7O"
+ },
+ {
+   "store_id": 32333,
+   "product_id": "maX6Z"
+ },
+ {
+   "store_id": 32347,
+   "product_id": "mDYmz"
+ },
+ {
+   "store_id": 32674,
+   "product_id": "MGg7T"
+ },
+ {
+   "store_id": 32720,
+   "product_id": "MI2xC"
+ },
+ {
+   "store_id": 32748,
+   "product_id": "mmblg"
+ },
+ {
+   "store_id": 32942,
+   "product_id": "MNJJu"
+ },
+ {
+   "store_id": 33004,
+   "product_id": "mpNO5"
+ },
+ {
+   "store_id": 33062,
+   "product_id": "mSuJT"
+ },
+ {
+   "store_id": 33133,
+   "product_id": "Mx2WK"
+ },
+ {
+   "store_id": 33237,
+   "product_id": "N4Zaa"
+ },
+ {
+   "store_id": 33266,
+   "product_id": "ncWY0"
+ },
+ {
+   "store_id": 33341,
+   "product_id": "nfJlV"
+ },
+ {
+   "store_id": 33820,
+   "product_id": "nItOT"
+ },
+ {
+   "store_id": 33894,
+   "product_id": "NlVvr"
+ },
+ {
+   "store_id": 34088,
+   "product_id": "NsHjm"
+ },
+ {
+   "store_id": 34222,
+   "product_id": "nW0UC"
+ },
+ {
+   "store_id": 34452,
+   "product_id": "NwvtD"
+ },
+ {
+   "store_id": 34702,
+   "product_id": "nzxvn"
+ },
+ {
+   "store_id": 34782,
+   "product_id": "o4XRG"
+ },
+ {
+   "store_id": 34796,
+   "product_id": "oCNpy"
+ },
+ {
+   "store_id": 34948,
+   "product_id": "OHfX1"
+ },
+ {
+   "store_id": 35281,
+   "product_id": "OHZyw"
+ },
+ {
+   "store_id": 35827,
+   "product_id": "oQCPL"
+ },
+ {
+   "store_id": 36035,
+   "product_id": "OtHjx"
+ },
+ {
+   "store_id": 36062,
+   "product_id": "oxMFZ"
+ },
+ {
+   "store_id": 36515,
+   "product_id": "OZonz"
+ },
+ {
+   "store_id": 36636,
+   "product_id": "P0yTe"
+ },
+ {
+   "store_id": 36688,
+   "product_id": "P3xaA"
+ },
+ {
+   "store_id": 36728,
+   "product_id": "P7CBR"
+ },
+ {
+   "store_id": 36946,
+   "product_id": "PoSxK"
+ },
+ {
+   "store_id": 36954,
+   "product_id": "Q1Bhp"
+ },
+ {
+   "store_id": 37046,
+   "product_id": "qESIh"
+ },
+ {
+   "store_id": 37048,
+   "product_id": "QhxZ5"
+ },
+ {
+   "store_id": 37094,
+   "product_id": "qmWgn"
+ },
+ {
+   "store_id": 37273,
+   "product_id": "QoxQf"
+ },
+ {
+   "store_id": 37499,
+   "product_id": "qZ8pj"
+ },
+ {
+   "store_id": 37913,
+   "product_id": "R56bk"
+ },
+ {
+   "store_id": 38069,
+   "product_id": "R5aPR"
+ },
+ {
+   "store_id": 38423,
+   "product_id": "r8xyT"
+ },
+ {
+   "store_id": 38523,
+   "product_id": "rbUeL"
+ },
+ {
+   "store_id": 38614,
+   "product_id": "rfHR6"
+ },
+ {
+   "store_id": 38734,
+   "product_id": "rgjFX"
+ },
+ {
+   "store_id": 38872,
+   "product_id": "rGxlh"
+ },
+ {
+   "store_id": 39444,
+   "product_id": "ROsa0"
+ },
+ {
+   "store_id": 39554,
+   "product_id": "RvLSw"
+ },
+ {
+   "store_id": 39649,
+   "product_id": "rzzZJ"
+ },
+ {
+   "store_id": 39746,
+   "product_id": "SAyRY"
+ },
+ {
+   "store_id": 39781,
+   "product_id": "SD15F"
+ },
+ {
+   "store_id": 40171,
+   "product_id": "SHbyU"
+ },
+ {
+   "store_id": 40556,
+   "product_id": "SLywy"
+ },
+ {
+   "store_id": 40627,
+   "product_id": "srZck"
+ },
+ {
+   "store_id": 40822,
+   "product_id": "SVnOi"
+ },
+ {
+   "store_id": 40876,
+   "product_id": "SZAe8"
+ },
+ {
+   "store_id": 41098,
+   "product_id": "SZPfl"
+ },
+ {
+   "store_id": 41507,
+   "product_id": "T2H3J"
+ },
+ {
+   "store_id": 41644,
+   "product_id": "T2y60"
+ },
+ {
+   "store_id": 41938,
+   "product_id": "Tbc5V"
+ },
+ {
+   "store_id": 42721,
+   "product_id": "Tczeq"
+ },
+ {
+   "store_id": 42818,
+   "product_id": "TIRss"
+ },
+ {
+   "store_id": 42881,
+   "product_id": "TkYuy"
+ },
+ {
+   "store_id": 42900,
+   "product_id": "tq9JJ"
+ },
+ {
+   "store_id": 43027,
+   "product_id": "tr9lK"
+ },
+ {
+   "store_id": 43043,
+   "product_id": "U4xcm"
+ },
+ {
+   "store_id": 43100,
+   "product_id": "Ub1xu"
+ },
+ {
+   "store_id": 43109,
+   "product_id": "Uf1OQ"
+ },
+ {
+   "store_id": 43137,
+   "product_id": "UFf1v"
+ },
+ {
+   "store_id": 43171,
+   "product_id": "UWtO9"
+ },
+ {
+   "store_id": 43427,
+   "product_id": "UyFfO"
+ },
+ {
+   "store_id": 43452,
+   "product_id": "Vcy1n"
+ },
+ {
+   "store_id": 43530,
+   "product_id": "VNRfG"
+ },
+ {
+   "store_id": 43814,
+   "product_id": "vU7Ve"
+ },
+ {
+   "store_id": 43849,
+   "product_id": "vuyw2"
+ },
+ {
+   "store_id": 43919,
+   "product_id": "W2rjo"
+ },
+ {
+   "store_id": 44004,
+   "product_id": "weZjQ"
+ },
+ {
+   "store_id": 44055,
+   "product_id": "WHnGz"
+ },
+ {
+   "store_id": 44565,
+   "product_id": "WiboC"
+ },
+ {
+   "store_id": 44670,
+   "product_id": "wiD7L"
+ },
+ {
+   "store_id": 44757,
+   "product_id": "Wiow5"
+ },
+ {
+   "store_id": 44772,
+   "product_id": "wkkOY"
+ },
+ {
+   "store_id": 44913,
+   "product_id": "wKSOn"
+ },
+ {
+   "store_id": 44983,
+   "product_id": "WmtF2"
+ },
+ {
+   "store_id": 45096,
+   "product_id": "wp4Wa"
+ },
+ {
+   "store_id": 45240,
+   "product_id": "WzTb7"
+ },
+ {
+   "store_id": 45659,
+   "product_id": "X60bU"
+ },
+ {
+   "store_id": 45761,
+   "product_id": "X65lY"
+ },
+ {
+   "store_id": 46035,
+   "product_id": "xB2vu"
+ },
+ {
+   "store_id": 46296,
+   "product_id": "xDzz5"
+ },
+ {
+   "store_id": 46491,
+   "product_id": "XhYgb"
+ },
+ {
+   "store_id": 46562,
+   "product_id": "Xk5Mq"
+ },
+ {
+   "store_id": 46879,
+   "product_id": "XnpMn"
+ },
+ {
+   "store_id": 46901,
+   "product_id": "XOh1l"
+ },
+ {
+   "store_id": 47425,
+   "product_id": "xs5EW"
+ },
+ {
+   "store_id": 47557,
+   "product_id": "xsHp4"
+ },
+ {
+   "store_id": 47572,
+   "product_id": "xSZq3"
+ },
+ {
+   "store_id": 47778,
+   "product_id": "XtZD4"
+ },
+ {
+   "store_id": 47865,
+   "product_id": "XxdMy"
+ },
+ {
+   "store_id": 47945,
+   "product_id": "Xzl8i"
+ },
+ {
+   "store_id": 48068,
+   "product_id": "Y4hNO"
+ },
+ {
+   "store_id": 48271,
+   "product_id": "YiRvE"
+ },
+ {
+   "store_id": 48545,
+   "product_id": "ykSEN"
+ },
+ {
+   "store_id": 48793,
+   "product_id": "YmCaH"
+ },
+ {
+   "store_id": 48889,
+   "product_id": "yNqT0"
+ },
+ {
+   "store_id": 49080,
+   "product_id": "YUA6D"
+ },
+ {
+   "store_id": 49693,
+   "product_id": "z3fPO"
+ },
+ {
+   "store_id": 49841,
+   "product_id": "ZbLpV"
+ },
+ {
+   "store_id": 49951,
+   "product_id": "ZdpdT"
+ }
+]

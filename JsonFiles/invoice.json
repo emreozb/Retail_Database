@@ -1,0 +1,1502 @@
+[
+ {
+   "invoice_id": 67444178,
+   "cust_id": 1,
+   "store_id": 38523,
+   "total_amount": 954.34
+ },
+ {
+   "invoice_id": 48971489,
+   "cust_id": 2,
+   "store_id": 38872,
+   "total_amount": 2748.91
+ },
+ {
+   "invoice_id": 42674183,
+   "cust_id": 3,
+   "store_id": 43427,
+   "total_amount": 2520.85
+ },
+ {
+   "invoice_id": 70916728,
+   "cust_id": 4,
+   "store_id": 42818,
+   "total_amount": 2981.1
+ },
+ {
+   "invoice_id": 86412899,
+   "cust_id": 5,
+   "store_id": 33133,
+   "total_amount": 2207.22
+ },
+ {
+   "invoice_id": 11772806,
+   "cust_id": 6,
+   "store_id": 31642,
+   "total_amount": 2941.97
+ },
+ {
+   "invoice_id": 66001536,
+   "cust_id": 7,
+   "store_id": 46901,
+   "total_amount": 2250.15
+ },
+ {
+   "invoice_id": 90594853,
+   "cust_id": 8,
+   "store_id": 37048,
+   "total_amount": 223.13
+ },
+ {
+   "invoice_id": 68809580,
+   "cust_id": 9,
+   "store_id": 40876,
+   "total_amount": 1709.4
+ },
+ {
+   "invoice_id": 20302620,
+   "cust_id": 10,
+   "store_id": 15660,
+   "total_amount": 422.28
+ },
+ {
+   "invoice_id": 56790166,
+   "cust_id": 11,
+   "store_id": 27664,
+   "total_amount": 2415.32
+ },
+ {
+   "invoice_id": 96832603,
+   "cust_id": 12,
+   "store_id": 46491,
+   "total_amount": 538.31
+ },
+ {
+   "invoice_id": 16785725,
+   "cust_id": 13,
+   "store_id": 10174,
+   "total_amount": 2679.69
+ },
+ {
+   "invoice_id": 73965335,
+   "cust_id": 14,
+   "store_id": 21835,
+   "total_amount": 2827.65
+ },
+ {
+   "invoice_id": 94551285,
+   "cust_id": 15,
+   "store_id": 32333,
+   "total_amount": 2093.33
+ },
+ {
+   "invoice_id": 79351641,
+   "cust_id": 16,
+   "store_id": 48545,
+   "total_amount": 2631.83
+ },
+ {
+   "invoice_id": 67823645,
+   "cust_id": 17,
+   "store_id": 14614,
+   "total_amount": 693.93
+ },
+ {
+   "invoice_id": 75515933,
+   "cust_id": 18,
+   "store_id": 19524,
+   "total_amount": 486.89
+ },
+ {
+   "invoice_id": 74372276,
+   "cust_id": 19,
+   "store_id": 17894,
+   "total_amount": 2254.25
+ },
+ {
+   "invoice_id": 29078640,
+   "cust_id": 20,
+   "store_id": 24989,
+   "total_amount": 2360.36
+ },
+ {
+   "invoice_id": 56270180,
+   "cust_id": 21,
+   "store_id": 44913,
+   "total_amount": 820.72
+ },
+ {
+   "invoice_id": 61162124,
+   "cust_id": 22,
+   "store_id": 26321,
+   "total_amount": 555.2
+ },
+ {
+   "invoice_id": 80526099,
+   "cust_id": 23,
+   "store_id": 32942,
+   "total_amount": 2664.58
+ },
+ {
+   "invoice_id": 91727351,
+   "cust_id": 24,
+   "store_id": 23899,
+   "total_amount": 2838.09
+ },
+ {
+   "invoice_id": 35332083,
+   "cust_id": 25,
+   "store_id": 30669,
+   "total_amount": 2743.8
+ },
+ {
+   "invoice_id": 55105301,
+   "cust_id": 26,
+   "store_id": 31774,
+   "total_amount": 2872.36
+ },
+ {
+   "invoice_id": 82458319,
+   "cust_id": 27,
+   "store_id": 29108,
+   "total_amount": 2660.68
+ },
+ {
+   "invoice_id": 60645262,
+   "cust_id": 28,
+   "store_id": 43919,
+   "total_amount": 1468.91
+ },
+ {
+   "invoice_id": 41523250,
+   "cust_id": 29,
+   "store_id": 19340,
+   "total_amount": 2396.67
+ },
+ {
+   "invoice_id": 48971596,
+   "cust_id": 30,
+   "store_id": 16316,
+   "total_amount": 823.41
+ },
+ {
+   "invoice_id": 15485760,
+   "cust_id": 31,
+   "store_id": 44772,
+   "total_amount": 2603.11
+ },
+ {
+   "invoice_id": 39451422,
+   "cust_id": 32,
+   "store_id": 17526,
+   "total_amount": 670.69
+ },
+ {
+   "invoice_id": 93280098,
+   "cust_id": 33,
+   "store_id": 37499,
+   "total_amount": 1175.53
+ },
+ {
+   "invoice_id": 21788071,
+   "cust_id": 34,
+   "store_id": 22953,
+   "total_amount": 2962.99
+ },
+ {
+   "invoice_id": 33244401,
+   "cust_id": 35,
+   "store_id": 27575,
+   "total_amount": 2229.26
+ },
+ {
+   "invoice_id": 85766561,
+   "cust_id": 36,
+   "store_id": 43171,
+   "total_amount": 1394.22
+ },
+ {
+   "invoice_id": 17849289,
+   "cust_id": 37,
+   "store_id": 20174,
+   "total_amount": 720.79
+ },
+ {
+   "invoice_id": 90749031,
+   "cust_id": 38,
+   "store_id": 29667,
+   "total_amount": 1279.9
+ },
+ {
+   "invoice_id": 70881202,
+   "cust_id": 39,
+   "store_id": 39781,
+   "total_amount": 2859.78
+ },
+ {
+   "invoice_id": 83498098,
+   "cust_id": 40,
+   "store_id": 40171,
+   "total_amount": 732.37
+ },
+ {
+   "invoice_id": 57733578,
+   "cust_id": 41,
+   "store_id": 22738,
+   "total_amount": 1116.63
+ },
+ {
+   "invoice_id": 25020236,
+   "cust_id": 42,
+   "store_id": 25208,
+   "total_amount": 2556.08
+ },
+ {
+   "invoice_id": 98244752,
+   "cust_id": 43,
+   "store_id": 28906,
+   "total_amount": 2867.71
+ },
+ {
+   "invoice_id": 19808407,
+   "cust_id": 44,
+   "store_id": 19255,
+   "total_amount": 1769.59
+ },
+ {
+   "invoice_id": 84207600,
+   "cust_id": 45,
+   "store_id": 43530,
+   "total_amount": 2054.9
+ },
+ {
+   "invoice_id": 72371180,
+   "cust_id": 46,
+   "store_id": 27581,
+   "total_amount": 982.74
+ },
+ {
+   "invoice_id": 68171925,
+   "cust_id": 47,
+   "store_id": 13591,
+   "total_amount": 1574.35
+ },
+ {
+   "invoice_id": 49900868,
+   "cust_id": 48,
+   "store_id": 33062,
+   "total_amount": 1102.04
+ },
+ {
+   "invoice_id": 65962040,
+   "cust_id": 49,
+   "store_id": 23923,
+   "total_amount": 574.46
+ },
+ {
+   "invoice_id": 29182175,
+   "cust_id": 50,
+   "store_id": 16017,
+   "total_amount": 1987.25
+ },
+ {
+   "invoice_id": 92385535,
+   "cust_id": 51,
+   "store_id": 16987,
+   "total_amount": 415.15
+ },
+ {
+   "invoice_id": 24893784,
+   "cust_id": 52,
+   "store_id": 12795,
+   "total_amount": 1841.64
+ },
+ {
+   "invoice_id": 41873442,
+   "cust_id": 53,
+   "store_id": 19358,
+   "total_amount": 365.89
+ },
+ {
+   "invoice_id": 26149277,
+   "cust_id": 54,
+   "store_id": 15387,
+   "total_amount": 2597.49
+ },
+ {
+   "invoice_id": 55613229,
+   "cust_id": 55,
+   "store_id": 48271,
+   "total_amount": 2936.64
+ },
+ {
+   "invoice_id": 28151351,
+   "cust_id": 56,
+   "store_id": 45659,
+   "total_amount": 310.73
+ },
+ {
+   "invoice_id": 10071572,
+   "cust_id": 57,
+   "store_id": 44565,
+   "total_amount": 2951.65
+ },
+ {
+   "invoice_id": 13509910,
+   "cust_id": 58,
+   "store_id": 40627,
+   "total_amount": 593.71
+ },
+ {
+   "invoice_id": 11761949,
+   "cust_id": 59,
+   "store_id": 36946,
+   "total_amount": 352
+ },
+ {
+   "invoice_id": 63926619,
+   "cust_id": 60,
+   "store_id": 10888,
+   "total_amount": 1680.68
+ },
+ {
+   "invoice_id": 66193232,
+   "cust_id": 61,
+   "store_id": 14813,
+   "total_amount": 2325.3
+ },
+ {
+   "invoice_id": 52270806,
+   "cust_id": 62,
+   "store_id": 43100,
+   "total_amount": 661.47
+ },
+ {
+   "invoice_id": 48904117,
+   "cust_id": 63,
+   "store_id": 15855,
+   "total_amount": 2011.07
+ },
+ {
+   "invoice_id": 33361357,
+   "cust_id": 64,
+   "store_id": 22881,
+   "total_amount": 1082.21
+ },
+ {
+   "invoice_id": 86527975,
+   "cust_id": 65,
+   "store_id": 16609,
+   "total_amount": 1454.65
+ },
+ {
+   "invoice_id": 86787190,
+   "cust_id": 66,
+   "store_id": 12077,
+   "total_amount": 2815.37
+ },
+ {
+   "invoice_id": 45751576,
+   "cust_id": 67,
+   "store_id": 43137,
+   "total_amount": 1318.09
+ },
+ {
+   "invoice_id": 75136692,
+   "cust_id": 68,
+   "store_id": 39746,
+   "total_amount": 715.67
+ },
+ {
+   "invoice_id": 63846181,
+   "cust_id": 69,
+   "store_id": 22859,
+   "total_amount": 2641.94
+ },
+ {
+   "invoice_id": 49868102,
+   "cust_id": 70,
+   "store_id": 31523,
+   "total_amount": 523.51
+ },
+ {
+   "invoice_id": 66838841,
+   "cust_id": 71,
+   "store_id": 25379,
+   "total_amount": 2289.55
+ },
+ {
+   "invoice_id": 28349839,
+   "cust_id": 72,
+   "store_id": 19599,
+   "total_amount": 1709.09
+ },
+ {
+   "invoice_id": 26992747,
+   "cust_id": 73,
+   "store_id": 44004,
+   "total_amount": 207.78
+ },
+ {
+   "invoice_id": 25398570,
+   "cust_id": 74,
+   "store_id": 30994,
+   "total_amount": 2331.41
+ },
+ {
+   "invoice_id": 69334313,
+   "cust_id": 75,
+   "store_id": 33894,
+   "total_amount": 2249.64
+ },
+ {
+   "invoice_id": 49047357,
+   "cust_id": 76,
+   "store_id": 18936,
+   "total_amount": 647.7
+ },
+ {
+   "invoice_id": 15647305,
+   "cust_id": 77,
+   "store_id": 38614,
+   "total_amount": 582.15
+ },
+ {
+   "invoice_id": 67350771,
+   "cust_id": 78,
+   "store_id": 11272,
+   "total_amount": 685.12
+ },
+ {
+   "invoice_id": 63309566,
+   "cust_id": 79,
+   "store_id": 33004,
+   "total_amount": 2711.56
+ },
+ {
+   "invoice_id": 67250245,
+   "cust_id": 80,
+   "store_id": 39444,
+   "total_amount": 2627.32
+ },
+ {
+   "invoice_id": 57587375,
+   "cust_id": 81,
+   "store_id": 13580,
+   "total_amount": 2968.51
+ },
+ {
+   "invoice_id": 60393974,
+   "cust_id": 82,
+   "store_id": 21668,
+   "total_amount": 1921.58
+ },
+ {
+   "invoice_id": 70010727,
+   "cust_id": 83,
+   "store_id": 38423,
+   "total_amount": 1974.91
+ },
+ {
+   "invoice_id": 59775646,
+   "cust_id": 84,
+   "store_id": 36035,
+   "total_amount": 2026.9
+ },
+ {
+   "invoice_id": 62463412,
+   "cust_id": 85,
+   "store_id": 32748,
+   "total_amount": 755.65
+ },
+ {
+   "invoice_id": 70967681,
+   "cust_id": 86,
+   "store_id": 18307,
+   "total_amount": 286.47
+ },
+ {
+   "invoice_id": 12047912,
+   "cust_id": 87,
+   "store_id": 17189,
+   "total_amount": 576.69
+ },
+ {
+   "invoice_id": 31152301,
+   "cust_id": 88,
+   "store_id": 44757,
+   "total_amount": 1202.98
+ },
+ {
+   "invoice_id": 42676709,
+   "cust_id": 89,
+   "store_id": 34088,
+   "total_amount": 2983.55
+ },
+ {
+   "invoice_id": 47918462,
+   "cust_id": 90,
+   "store_id": 17084,
+   "total_amount": 1873.65
+ },
+ {
+   "invoice_id": 58507257,
+   "cust_id": 91,
+   "store_id": 21388,
+   "total_amount": 1702.17
+ },
+ {
+   "invoice_id": 52070766,
+   "cust_id": 92,
+   "store_id": 32347,
+   "total_amount": 1962.78
+ },
+ {
+   "invoice_id": 91045631,
+   "cust_id": 93,
+   "store_id": 36728,
+   "total_amount": 388.11
+ },
+ {
+   "invoice_id": 15461368,
+   "cust_id": 94,
+   "store_id": 20291,
+   "total_amount": 2324.54
+ },
+ {
+   "invoice_id": 81236920,
+   "cust_id": 95,
+   "store_id": 34452,
+   "total_amount": 1578.5
+ },
+ {
+   "invoice_id": 32599857,
+   "cust_id": 96,
+   "store_id": 16656,
+   "total_amount": 257.98
+ },
+ {
+   "invoice_id": 52684049,
+   "cust_id": 97,
+   "store_id": 43814,
+   "total_amount": 2753.84
+ },
+ {
+   "invoice_id": 17551584,
+   "cust_id": 98,
+   "store_id": 39554,
+   "total_amount": 1878.71
+ },
+ {
+   "invoice_id": 66653551,
+   "cust_id": 99,
+   "store_id": 14651,
+   "total_amount": 951.61
+ },
+ {
+   "invoice_id": 58024904,
+   "cust_id": 100,
+   "store_id": 26449,
+   "total_amount": 670.63
+ },
+ {
+   "invoice_id": 12779134,
+   "cust_id": 101,
+   "store_id": 47945,
+   "total_amount": 811.03
+ },
+ {
+   "invoice_id": 33167097,
+   "cust_id": 102,
+   "store_id": 43027,
+   "total_amount": 140.11
+ },
+ {
+   "invoice_id": 76027415,
+   "cust_id": 103,
+   "store_id": 49693,
+   "total_amount": 434.58
+ },
+ {
+   "invoice_id": 88352236,
+   "cust_id": 104,
+   "store_id": 13980,
+   "total_amount": 2353.97
+ },
+ {
+   "invoice_id": 42212689,
+   "cust_id": 105,
+   "store_id": 48889,
+   "total_amount": 2890.4
+ },
+ {
+   "invoice_id": 23089893,
+   "cust_id": 106,
+   "store_id": 40556,
+   "total_amount": 1386.87
+ },
+ {
+   "invoice_id": 52976761,
+   "cust_id": 107,
+   "store_id": 36515,
+   "total_amount": 424.94
+ },
+ {
+   "invoice_id": 61949744,
+   "cust_id": 108,
+   "store_id": 37094,
+   "total_amount": 2846.7
+ },
+ {
+   "invoice_id": 83645345,
+   "cust_id": 109,
+   "store_id": 12809,
+   "total_amount": 1419.94
+ },
+ {
+   "invoice_id": 51291996,
+   "cust_id": 110,
+   "store_id": 24661,
+   "total_amount": 2530.35
+ },
+ {
+   "invoice_id": 25395999,
+   "cust_id": 111,
+   "store_id": 24623,
+   "total_amount": 1164.9
+ },
+ {
+   "invoice_id": 53153253,
+   "cust_id": 112,
+   "store_id": 41644,
+   "total_amount": 186.52
+ },
+ {
+   "invoice_id": 55665935,
+   "cust_id": 113,
+   "store_id": 37046,
+   "total_amount": 1648.5
+ },
+ {
+   "invoice_id": 45128373,
+   "cust_id": 114,
+   "store_id": 48068,
+   "total_amount": 1600.94
+ },
+ {
+   "invoice_id": 45280224,
+   "cust_id": 115,
+   "store_id": 27562,
+   "total_amount": 1850.14
+ },
+ {
+   "invoice_id": 88392118,
+   "cust_id": 116,
+   "store_id": 28106,
+   "total_amount": 2205.65
+ },
+ {
+   "invoice_id": 37863606,
+   "cust_id": 117,
+   "store_id": 23031,
+   "total_amount": 1503.85
+ },
+ {
+   "invoice_id": 76466079,
+   "cust_id": 118,
+   "store_id": 22360,
+   "total_amount": 262.08
+ },
+ {
+   "invoice_id": 72433733,
+   "cust_id": 119,
+   "store_id": 37913,
+   "total_amount": 1415.3
+ },
+ {
+   "invoice_id": 40439472,
+   "cust_id": 120,
+   "store_id": 10810,
+   "total_amount": 1373.56
+ },
+ {
+   "invoice_id": 25511771,
+   "cust_id": 121,
+   "store_id": 18171,
+   "total_amount": 897.28
+ },
+ {
+   "invoice_id": 31165690,
+   "cust_id": 122,
+   "store_id": 45096,
+   "total_amount": 2128.41
+ },
+ {
+   "invoice_id": 15638965,
+   "cust_id": 123,
+   "store_id": 32720,
+   "total_amount": 2647.93
+ },
+ {
+   "invoice_id": 88817829,
+   "cust_id": 124,
+   "store_id": 17943,
+   "total_amount": 1950.91
+ },
+ {
+   "invoice_id": 43745868,
+   "cust_id": 125,
+   "store_id": 21769,
+   "total_amount": 352.59
+ },
+ {
+   "invoice_id": 10105998,
+   "cust_id": 126,
+   "store_id": 36636,
+   "total_amount": 637.34
+ },
+ {
+   "invoice_id": 60278555,
+   "cust_id": 127,
+   "store_id": 41938,
+   "total_amount": 2847.73
+ },
+ {
+   "invoice_id": 35924380,
+   "cust_id": 128,
+   "store_id": 24952,
+   "total_amount": 532.35
+ },
+ {
+   "invoice_id": 54856424,
+   "cust_id": 129,
+   "store_id": 49080,
+   "total_amount": 1354.31
+ },
+ {
+   "invoice_id": 83582662,
+   "cust_id": 130,
+   "store_id": 49951,
+   "total_amount": 2378.58
+ },
+ {
+   "invoice_id": 30086510,
+   "cust_id": 131,
+   "store_id": 10382,
+   "total_amount": 590.09
+ },
+ {
+   "invoice_id": 94290552,
+   "cust_id": 132,
+   "store_id": 19983,
+   "total_amount": 732.24
+ },
+ {
+   "invoice_id": 69519280,
+   "cust_id": 133,
+   "store_id": 43814,
+   "total_amount": 554.9
+ },
+ {
+   "invoice_id": 75518508,
+   "cust_id": 134,
+   "store_id": 13933,
+   "total_amount": 2444.85
+ },
+ {
+   "invoice_id": 74711478,
+   "cust_id": 135,
+   "store_id": 35281,
+   "total_amount": 1358.85
+ },
+ {
+   "invoice_id": 94674138,
+   "cust_id": 136,
+   "store_id": 35827,
+   "total_amount": 1154.97
+ },
+ {
+   "invoice_id": 54135999,
+   "cust_id": 137,
+   "store_id": 16792,
+   "total_amount": 2108.27
+ },
+ {
+   "invoice_id": 95955252,
+   "cust_id": 138,
+   "store_id": 30056,
+   "total_amount": 2360.49
+ },
+ {
+   "invoice_id": 84695936,
+   "cust_id": 139,
+   "store_id": 32239,
+   "total_amount": 2664.13
+ },
+ {
+   "invoice_id": 93121874,
+   "cust_id": 140,
+   "store_id": 44670,
+   "total_amount": 2236.27
+ },
+ {
+   "invoice_id": 18928740,
+   "cust_id": 141,
+   "store_id": 15982,
+   "total_amount": 810.09
+ },
+ {
+   "invoice_id": 42051463,
+   "cust_id": 142,
+   "store_id": 14331,
+   "total_amount": 1992.47
+ },
+ {
+   "invoice_id": 83297481,
+   "cust_id": 143,
+   "store_id": 14307,
+   "total_amount": 1371.87
+ },
+ {
+   "invoice_id": 41667388,
+   "cust_id": 144,
+   "store_id": 17280,
+   "total_amount": 1085.03
+ },
+ {
+   "invoice_id": 49527025,
+   "cust_id": 145,
+   "store_id": 19148,
+   "total_amount": 2508.14
+ },
+ {
+   "invoice_id": 89337317,
+   "cust_id": 146,
+   "store_id": 18833,
+   "total_amount": 1750.72
+ },
+ {
+   "invoice_id": 55713854,
+   "cust_id": 147,
+   "store_id": 33237,
+   "total_amount": 1716.07
+ },
+ {
+   "invoice_id": 40772826,
+   "cust_id": 148,
+   "store_id": 19916,
+   "total_amount": 1048.09
+ },
+ {
+   "invoice_id": 37692975,
+   "cust_id": 149,
+   "store_id": 46035,
+   "total_amount": 877.39
+ },
+ {
+   "invoice_id": 64279548,
+   "cust_id": 150,
+   "store_id": 34782,
+   "total_amount": 409.33
+ },
+ {
+   "invoice_id": 20529994,
+   "cust_id": 151,
+   "store_id": 14465,
+   "total_amount": 2239.42
+ },
+ {
+   "invoice_id": 67349254,
+   "cust_id": 152,
+   "store_id": 26066,
+   "total_amount": 1923.56
+ },
+ {
+   "invoice_id": 77939543,
+   "cust_id": 153,
+   "store_id": 38069,
+   "total_amount": 1152.78
+ },
+ {
+   "invoice_id": 43942205,
+   "cust_id": 154,
+   "store_id": 10123,
+   "total_amount": 466.93
+ },
+ {
+   "invoice_id": 18967971,
+   "cust_id": 155,
+   "store_id": 47572,
+   "total_amount": 501.35
+ },
+ {
+   "invoice_id": 31604882,
+   "cust_id": 156,
+   "store_id": 25153,
+   "total_amount": 1596.95
+ },
+ {
+   "invoice_id": 41768448,
+   "cust_id": 157,
+   "store_id": 14130,
+   "total_amount": 2850.32
+ },
+ {
+   "invoice_id": 46924413,
+   "cust_id": 158,
+   "store_id": 25664,
+   "total_amount": 1305.18
+ },
+ {
+   "invoice_id": 27816611,
+   "cust_id": 159,
+   "store_id": 30344,
+   "total_amount": 2296.92
+ },
+ {
+   "invoice_id": 99948129,
+   "cust_id": 160,
+   "store_id": 27927,
+   "total_amount": 240.38
+ },
+ {
+   "invoice_id": 17131949,
+   "cust_id": 161,
+   "store_id": 43849,
+   "total_amount": 712.33
+ },
+ {
+   "invoice_id": 58202572,
+   "cust_id": 162,
+   "store_id": 22415,
+   "total_amount": 781.6
+ },
+ {
+   "invoice_id": 64749718,
+   "cust_id": 163,
+   "store_id": 13649,
+   "total_amount": 2425.2
+ },
+ {
+   "invoice_id": 61803223,
+   "cust_id": 164,
+   "store_id": 42881,
+   "total_amount": 467.21
+ },
+ {
+   "invoice_id": 94068155,
+   "cust_id": 165,
+   "store_id": 27244,
+   "total_amount": 479.43
+ },
+ {
+   "invoice_id": 22944811,
+   "cust_id": 166,
+   "store_id": 11044,
+   "total_amount": 802.19
+ },
+ {
+   "invoice_id": 76650764,
+   "cust_id": 167,
+   "store_id": 26016,
+   "total_amount": 296.75
+ },
+ {
+   "invoice_id": 49664673,
+   "cust_id": 168,
+   "store_id": 29983,
+   "total_amount": 825.16
+ },
+ {
+   "invoice_id": 11654722,
+   "cust_id": 169,
+   "store_id": 19384,
+   "total_amount": 2149.32
+ },
+ {
+   "invoice_id": 31678287,
+   "cust_id": 170,
+   "store_id": 41098,
+   "total_amount": 1373.87
+ },
+ {
+   "invoice_id": 68087209,
+   "cust_id": 171,
+   "store_id": 47425,
+   "total_amount": 2290.31
+ },
+ {
+   "invoice_id": 45714394,
+   "cust_id": 172,
+   "store_id": 29571,
+   "total_amount": 963.92
+ },
+ {
+   "invoice_id": 63404196,
+   "cust_id": 173,
+   "store_id": 17732,
+   "total_amount": 1735.9
+ },
+ {
+   "invoice_id": 77551708,
+   "cust_id": 174,
+   "store_id": 28820,
+   "total_amount": 1931.71
+ },
+ {
+   "invoice_id": 77230592,
+   "cust_id": 175,
+   "store_id": 32674,
+   "total_amount": 2354.82
+ },
+ {
+   "invoice_id": 19821603,
+   "cust_id": 176,
+   "store_id": 43043,
+   "total_amount": 1480.28
+ },
+ {
+   "invoice_id": 77321349,
+   "cust_id": 177,
+   "store_id": 47778,
+   "total_amount": 256.52
+ },
+ {
+   "invoice_id": 75631588,
+   "cust_id": 178,
+   "store_id": 26698,
+   "total_amount": 850.98
+ },
+ {
+   "invoice_id": 66897031,
+   "cust_id": 179,
+   "store_id": 14820,
+   "total_amount": 1951.96
+ },
+ {
+   "invoice_id": 25624701,
+   "cust_id": 180,
+   "store_id": 36688,
+   "total_amount": 1599.53
+ },
+ {
+   "invoice_id": 35199924,
+   "cust_id": 181,
+   "store_id": 36062,
+   "total_amount": 1165.36
+ },
+ {
+   "invoice_id": 39736422,
+   "cust_id": 182,
+   "store_id": 34796,
+   "total_amount": 2797.37
+ },
+ {
+   "invoice_id": 90251357,
+   "cust_id": 183,
+   "store_id": 47557,
+   "total_amount": 1658.83
+ },
+ {
+   "invoice_id": 56446904,
+   "cust_id": 184,
+   "store_id": 34948,
+   "total_amount": 1696.68
+ },
+ {
+   "invoice_id": 35646833,
+   "cust_id": 185,
+   "store_id": 42721,
+   "total_amount": 2970.44
+ },
+ {
+   "invoice_id": 13452572,
+   "cust_id": 186,
+   "store_id": 45761,
+   "total_amount": 2111.47
+ },
+ {
+   "invoice_id": 40275153,
+   "cust_id": 187,
+   "store_id": 26557,
+   "total_amount": 2736.23
+ },
+ {
+   "invoice_id": 13353014,
+   "cust_id": 188,
+   "store_id": 23299,
+   "total_amount": 1529.39
+ },
+ {
+   "invoice_id": 42082795,
+   "cust_id": 189,
+   "store_id": 26055,
+   "total_amount": 2756.5
+ },
+ {
+   "invoice_id": 40031132,
+   "cust_id": 190,
+   "store_id": 13404,
+   "total_amount": 2317.66
+ },
+ {
+   "invoice_id": 95851890,
+   "cust_id": 191,
+   "store_id": 42900,
+   "total_amount": 1317.05
+ },
+ {
+   "invoice_id": 43799402,
+   "cust_id": 192,
+   "store_id": 24148,
+   "total_amount": 1464.26
+ },
+ {
+   "invoice_id": 41605329,
+   "cust_id": 193,
+   "store_id": 13326,
+   "total_amount": 1308.85
+ },
+ {
+   "invoice_id": 50554482,
+   "cust_id": 194,
+   "store_id": 30339,
+   "total_amount": 730.94
+ },
+ {
+   "invoice_id": 50674978,
+   "cust_id": 195,
+   "store_id": 16330,
+   "total_amount": 772.5
+ },
+ {
+   "invoice_id": 85311600,
+   "cust_id": 196,
+   "store_id": 46562,
+   "total_amount": 1388.27
+ },
+ {
+   "invoice_id": 59037464,
+   "cust_id": 197,
+   "store_id": 10236,
+   "total_amount": 1822.94
+ },
+ {
+   "invoice_id": 53960957,
+   "cust_id": 198,
+   "store_id": 32180,
+   "total_amount": 2527.61
+ },
+ {
+   "invoice_id": 36782491,
+   "cust_id": 199,
+   "store_id": 47865,
+   "total_amount": 803.87
+ },
+ {
+   "invoice_id": 97984284,
+   "cust_id": 200,
+   "store_id": 15646,
+   "total_amount": 2924.01
+ },
+ {
+   "invoice_id": 88712313,
+   "cust_id": 201,
+   "store_id": 40822,
+   "total_amount": 1718.77
+ },
+ {
+   "invoice_id": 25618410,
+   "cust_id": 202,
+   "store_id": 19205,
+   "total_amount": 1730.13
+ },
+ {
+   "invoice_id": 66821907,
+   "cust_id": 203,
+   "store_id": 48793,
+   "total_amount": 2737.52
+ },
+ {
+   "invoice_id": 25449196,
+   "cust_id": 204,
+   "store_id": 12431,
+   "total_amount": 2092.28
+ },
+ {
+   "invoice_id": 66296662,
+   "cust_id": 205,
+   "store_id": 15599,
+   "total_amount": 2668.69
+ },
+ {
+   "invoice_id": 36246826,
+   "cust_id": 206,
+   "store_id": 24735,
+   "total_amount": 1797.26
+ },
+ {
+   "invoice_id": 89329655,
+   "cust_id": 207,
+   "store_id": 43109,
+   "total_amount": 1607.47
+ },
+ {
+   "invoice_id": 30495736,
+   "cust_id": 208,
+   "store_id": 12806,
+   "total_amount": 2387.17
+ },
+ {
+   "invoice_id": 74309787,
+   "cust_id": 209,
+   "store_id": 13955,
+   "total_amount": 1449.58
+ },
+ {
+   "invoice_id": 49502817,
+   "cust_id": 210,
+   "store_id": 34702,
+   "total_amount": 326.23
+ },
+ {
+   "invoice_id": 45069239,
+   "cust_id": 211,
+   "store_id": 22774,
+   "total_amount": 1183.44
+ },
+ {
+   "invoice_id": 84988819,
+   "cust_id": 212,
+   "store_id": 23523,
+   "total_amount": 1770.66
+ },
+ {
+   "invoice_id": 24966097,
+   "cust_id": 213,
+   "store_id": 16181,
+   "total_amount": 907.67
+ },
+ {
+   "invoice_id": 43570066,
+   "cust_id": 214,
+   "store_id": 29370,
+   "total_amount": 695.53
+ },
+ {
+   "invoice_id": 77451038,
+   "cust_id": 215,
+   "store_id": 33266,
+   "total_amount": 1182.91
+ },
+ {
+   "invoice_id": 70093282,
+   "cust_id": 216,
+   "store_id": 20796,
+   "total_amount": 2602.95
+ },
+ {
+   "invoice_id": 92451855,
+   "cust_id": 217,
+   "store_id": 38734,
+   "total_amount": 117.66
+ },
+ {
+   "invoice_id": 65231999,
+   "cust_id": 218,
+   "store_id": 45240,
+   "total_amount": 378.45
+ },
+ {
+   "invoice_id": 58789524,
+   "cust_id": 219,
+   "store_id": 44983,
+   "total_amount": 1975.77
+ },
+ {
+   "invoice_id": 64163494,
+   "cust_id": 220,
+   "store_id": 33341,
+   "total_amount": 1431.1
+ },
+ {
+   "invoice_id": 59331171,
+   "cust_id": 221,
+   "store_id": 32258,
+   "total_amount": 658.83
+ },
+ {
+   "invoice_id": 36242395,
+   "cust_id": 222,
+   "store_id": 36954,
+   "total_amount": 2367.31
+ },
+ {
+   "invoice_id": 85099367,
+   "cust_id": 223,
+   "store_id": 37273,
+   "total_amount": 2397.31
+ },
+ {
+   "invoice_id": 12912855,
+   "cust_id": 224,
+   "store_id": 49841,
+   "total_amount": 463.31
+ },
+ {
+   "invoice_id": 63203061,
+   "cust_id": 225,
+   "store_id": 20548,
+   "total_amount": 1574.31
+ },
+ {
+   "invoice_id": 94333541,
+   "cust_id": 226,
+   "store_id": 26918,
+   "total_amount": 1486.42
+ },
+ {
+   "invoice_id": 33775687,
+   "cust_id": 227,
+   "store_id": 15273,
+   "total_amount": 235.6
+ },
+ {
+   "invoice_id": 66801070,
+   "cust_id": 228,
+   "store_id": 20036,
+   "total_amount": 1616.07
+ },
+ {
+   "invoice_id": 61336000,
+   "cust_id": 229,
+   "store_id": 14371,
+   "total_amount": 2350.28
+ },
+ {
+   "invoice_id": 98958109,
+   "cust_id": 230,
+   "store_id": 34222,
+   "total_amount": 944.93
+ },
+ {
+   "invoice_id": 90123460,
+   "cust_id": 231,
+   "store_id": 43452,
+   "total_amount": 1736.82
+ },
+ {
+   "invoice_id": 61575349,
+   "cust_id": 232,
+   "store_id": 39649,
+   "total_amount": 2492.01
+ },
+ {
+   "invoice_id": 73306803,
+   "cust_id": 233,
+   "store_id": 23505,
+   "total_amount": 1427.59
+ },
+ {
+   "invoice_id": 63371016,
+   "cust_id": 234,
+   "store_id": 46296,
+   "total_amount": 2516.07
+ },
+ {
+   "invoice_id": 67750372,
+   "cust_id": 235,
+   "store_id": 33820,
+   "total_amount": 2662.88
+ },
+ {
+   "invoice_id": 41547406,
+   "cust_id": 236,
+   "store_id": 23542,
+   "total_amount": 165.59
+ },
+ {
+   "invoice_id": 22600929,
+   "cust_id": 237,
+   "store_id": 46879,
+   "total_amount": 1854.17
+ },
+ {
+   "invoice_id": 41821158,
+   "cust_id": 238,
+   "store_id": 15368,
+   "total_amount": 1079.41
+ },
+ {
+   "invoice_id": 54477441,
+   "cust_id": 239,
+   "store_id": 16521,
+   "total_amount": 2759.67
+ },
+ {
+   "invoice_id": 78349274,
+   "cust_id": 240,
+   "store_id": 31163,
+   "total_amount": 2191.01
+ },
+ {
+   "invoice_id": 13259783,
+   "cust_id": 241,
+   "store_id": 20886,
+   "total_amount": 2553.5
+ },
+ {
+   "invoice_id": 44252911,
+   "cust_id": 242,
+   "store_id": 31481,
+   "total_amount": 512.56
+ },
+ {
+   "invoice_id": 53873520,
+   "cust_id": 243,
+   "store_id": 29920,
+   "total_amount": 152.68
+ },
+ {
+   "invoice_id": 37110900,
+   "cust_id": 244,
+   "store_id": 41507,
+   "total_amount": 777.02
+ },
+ {
+   "invoice_id": 84197085,
+   "cust_id": 245,
+   "store_id": 20315,
+   "total_amount": 2046.21
+ },
+ {
+   "invoice_id": 57870185,
+   "cust_id": 246,
+   "store_id": 23374,
+   "total_amount": 2969.64
+ },
+ {
+   "invoice_id": 27226308,
+   "cust_id": 247,
+   "store_id": 15584,
+   "total_amount": 737.75
+ },
+ {
+   "invoice_id": 72071376,
+   "cust_id": 248,
+   "store_id": 23748,
+   "total_amount": 2560.69
+ },
+ {
+   "invoice_id": 78453709,
+   "cust_id": 249,
+   "store_id": 44055,
+   "total_amount": 1656.23
+ },
+ {
+   "invoice_id": 46655828,
+   "cust_id": 250,
+   "store_id": 23294,
+   "total_amount": 328.91
+ }
+]

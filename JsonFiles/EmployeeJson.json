@@ -1,0 +1,2003 @@
+{ 
+"objects":[ 
+{ 
+"e_id":"464",
+"e_ssn":"37984327",
+"e_name":"Cara Brown",
+"e_title":"International Operations",
+"e_start_date":"6/20/2009",
+"e_end_date":"11/30/2012"
+},
+{ 
+"e_id":"692",
+"e_ssn":"57957996",
+"e_name":"Carmen Hunt",
+"e_title":"Inventory",
+"e_start_date":"2/13/1992",
+"e_end_date":"9/2/2012"
+},
+{ 
+"e_id":"163",
+"e_ssn":"70519642",
+"e_name":"Tony Brooks",
+"e_title":"Domestic operations",
+"e_start_date":"12/25/2000",
+"e_end_date":"2/24/2017"
+},
+{ 
+"e_id":"211",
+"e_ssn":"21734842",
+"e_name":"Clint Graham",
+"e_title":"Non-Store Operations",
+"e_start_date":"3/20/1999",
+"e_end_date":"5/8/2018"
+},
+{ 
+"e_id":"307",
+"e_ssn":"94609253",
+"e_name":"Alba Gosling",
+"e_title":"Property department",
+"e_start_date":"5/5/2005",
+"e_end_date":"2/18/2018"
+},
+{ 
+"e_id":"878",
+"e_ssn":"69452634",
+"e_name":"Ellen Quinnell",
+"e_title":"International Operations",
+"e_start_date":"10/13/1995",
+"e_end_date":"12/18/2015"
+},
+{ 
+"e_id":"672",
+"e_ssn":"44374111",
+"e_name":"Rihanna Healy",
+"e_title":"Advertisement department",
+"e_start_date":"6/16/2003",
+"e_end_date":"4/16/2017"
+},
+{ 
+"e_id":"916",
+"e_ssn":"76237845",
+"e_name":"Rosemary Spencer",
+"e_title":"Inventory",
+"e_start_date":"7/16/2006",
+"e_end_date":"10/17/2019"
+},
+{ 
+"e_id":"297",
+"e_ssn":"59625000",
+"e_name":"Ivy Everett",
+"e_title":"Advertisement department",
+"e_start_date":"3/26/1995",
+"e_end_date":"8/17/2017"
+},
+{ 
+"e_id":"987",
+"e_ssn":"40718284",
+"e_name":"Leroy Oatway",
+"e_title":"Inventory",
+"e_start_date":"2/14/2002",
+"e_end_date":"2/24/2013"
+},
+{ 
+"e_id":"505",
+"e_ssn":"37578683",
+"e_name":"Amy Rust",
+"e_title":"International Operations",
+"e_start_date":"10/18/2007",
+"e_end_date":"10/9/2015"
+},
+{ 
+"e_id":"190",
+"e_ssn":"60936531",
+"e_name":"Mona Connor",
+"e_title":"International Operations",
+"e_start_date":"6/22/2001",
+"e_end_date":"8/16/2011"
+},
+{ 
+"e_id":"266",
+"e_ssn":"51806241",
+"e_name":"Bryon Becker",
+"e_title":"Personnel Department",
+"e_start_date":"8/11/2004",
+"e_end_date":"7/22/2012"
+},
+{ 
+"e_id":"292",
+"e_ssn":"76306953",
+"e_name":"Johnny Curtis",
+"e_title":"Non-Store Operations",
+"e_start_date":"10/8/2009",
+"e_end_date":"4/1/2012"
+},
+{ 
+"e_id":"544",
+"e_ssn":"72839543",
+"e_name":"Naomi Dwyer",
+"e_title":"Inventory",
+"e_start_date":"2/5/1995",
+"e_end_date":"7/14/2012"
+},
+{ 
+"e_id":"577",
+"e_ssn":"37451927",
+"e_name":"Harmony Isaac",
+"e_title":"Property department",
+"e_start_date":"1/21/2001",
+"e_end_date":"8/16/2011"
+},
+{ 
+"e_id":"596",
+"e_ssn":"32427481",
+"e_name":"Barry Addley",
+"e_title":"Property department",
+"e_start_date":"4/20/2000",
+"e_end_date":"9/13/2013"
+},
+{ 
+"e_id":"534",
+"e_ssn":"29231395",
+"e_name":"Caleb Snow",
+"e_title":"Legal and public relation department",
+"e_start_date":"12/16/1993",
+"e_end_date":"1/27/2018"
+},
+{ 
+"e_id":"885",
+"e_ssn":"58490600",
+"e_name":"Adelaide Bradshaw",
+"e_title":"Logistics",
+"e_start_date":"7/22/2001",
+"e_end_date":"5/10/2014"
+},
+{ 
+"e_id":"639",
+"e_ssn":"93983033",
+"e_name":"Mya Stewart",
+"e_title":"International Operations",
+"e_start_date":"8/23/2006",
+"e_end_date":"5/17/2012"
+},
+{ 
+"e_id":"311",
+"e_ssn":"53349463",
+"e_name":"Roger Donnelly",
+"e_title":"Non-Store Operations",
+"e_start_date":"7/12/1998",
+"e_end_date":"3/1/2012"
+},
+{ 
+"e_id":"211",
+"e_ssn":"29357293",
+"e_name":"Daria Mitchell",
+"e_title":"Domestic operations",
+"e_start_date":"3/6/1991",
+"e_end_date":"8/2/2019"
+},
+{ 
+"e_id":"901",
+"e_ssn":"60268108",
+"e_name":"Russel Broomfield",
+"e_title":"Personnel Department",
+"e_start_date":"6/24/1993",
+"e_end_date":"11/9/2014"
+},
+{ 
+"e_id":"357",
+"e_ssn":"64450793",
+"e_name":"Rocco Plumb",
+"e_title":"Domestic operations",
+"e_start_date":"6/27/1992",
+"e_end_date":"8/4/2010"
+},
+{ 
+"e_id":"406",
+"e_ssn":"29784792",
+"e_name":"Melanie Judd",
+"e_title":"Personnel Department",
+"e_start_date":"1/10/1995",
+"e_end_date":"12/15/2016"
+},
+{ 
+"e_id":"818",
+"e_ssn":"83491081",
+"e_name":"Kurt Wilkinson",
+"e_title":"Legal and public relation department",
+"e_start_date":"7/21/2001",
+"e_end_date":"1/26/2014"
+},
+{ 
+"e_id":"605",
+"e_ssn":"56105509",
+"e_name":"Aeris Brown",
+"e_title":"Legal and public relation department",
+"e_start_date":"1/25/2002",
+"e_end_date":"5/15/2018"
+},
+{ 
+"e_id":"854",
+"e_ssn":"31350082",
+"e_name":"Havana Farmer",
+"e_title":"Personnel Department",
+"e_start_date":"5/22/2010",
+"e_end_date":"11/23/2017"
+},
+{ 
+"e_id":"985",
+"e_ssn":"57050942",
+"e_name":"Tyler Trent",
+"e_title":"International Operations",
+"e_start_date":"12/27/2006",
+"e_end_date":"3/31/2015"
+},
+{ 
+"e_id":"255",
+"e_ssn":"96754110",
+"e_name":"William Evans",
+"e_title":"Domestic operations",
+"e_start_date":"5/25/2001",
+"e_end_date":"2/22/2013"
+},
+{ 
+"e_id":"317",
+"e_ssn":"46092435",
+"e_name":"Chloe Dobson",
+"e_title":"Non-Store Operations",
+"e_start_date":"6/6/1998",
+"e_end_date":"12/10/2012"
+},
+{ 
+"e_id":"611",
+"e_ssn":"94072528",
+"e_name":"Colleen Andersson",
+"e_title":"Inventory",
+"e_start_date":"7/11/1991",
+"e_end_date":"10/31/2019"
+},
+{ 
+"e_id":"563",
+"e_ssn":"82375857",
+"e_name":"Domenic Wilson",
+"e_title":"Non-Store Operations",
+"e_start_date":"3/29/1993",
+"e_end_date":"5/23/2011"
+},
+{ 
+"e_id":"262",
+"e_ssn":"82190317",
+"e_name":"Juliet Morrison",
+"e_title":"Logistics",
+"e_start_date":"3/20/1992",
+"e_end_date":"6/26/2017"
+},
+{ 
+"e_id":"616",
+"e_ssn":"70471708",
+"e_name":"Davina Spencer",
+"e_title":"Legal and public relation department",
+"e_start_date":"8/20/1994",
+"e_end_date":"10/27/2019"
+},
+{ 
+"e_id":"142",
+"e_ssn":"94125943",
+"e_name":"Oliver Evans",
+"e_title":"Inventory",
+"e_start_date":"8/11/2009",
+"e_end_date":"9/16/2010"
+},
+{ 
+"e_id":"566",
+"e_ssn":"72670118",
+"e_name":"Cassandra Bright",
+"e_title":"Inventory",
+"e_start_date":"8/25/1990",
+"e_end_date":"7/12/2018"
+},
+{ 
+"e_id":"929",
+"e_ssn":"89169623",
+"e_name":"Ron Pearson",
+"e_title":"International Operations",
+"e_start_date":"3/13/1992",
+"e_end_date":"6/3/2012"
+},
+{ 
+"e_id":"544",
+"e_ssn":"95651809",
+"e_name":"Maddison Rees",
+"e_title":"Inventory",
+"e_start_date":"1/30/1993",
+"e_end_date":"9/4/2018"
+},
+{ 
+"e_id":"819",
+"e_ssn":"80150357",
+"e_name":"Leah Thomson",
+"e_title":"International Operations",
+"e_start_date":"2/11/2008",
+"e_end_date":"8/21/2014"
+},
+{ 
+"e_id":"569",
+"e_ssn":"81207570",
+"e_name":"Chad Nayler",
+"e_title":"Non-Store Operations",
+"e_start_date":"7/6/1991",
+"e_end_date":"3/18/2014"
+},
+{ 
+"e_id":"855",
+"e_ssn":"84774599",
+"e_name":"Manuel Farmer",
+"e_title":"Personnel Department",
+"e_start_date":"8/11/1993",
+"e_end_date":"10/29/2014"
+},
+{ 
+"e_id":"645",
+"e_ssn":"72715417",
+"e_name":"Enoch Ianson",
+"e_title":"International Operations",
+"e_start_date":"1/18/1996",
+"e_end_date":"11/23/2014"
+},
+{ 
+"e_id":"995",
+"e_ssn":"80646501",
+"e_name":"Sabrina Fields",
+"e_title":"Advertisement department",
+"e_start_date":"10/1/1996",
+"e_end_date":"8/9/2014"
+},
+{ 
+"e_id":"742",
+"e_ssn":"99457460",
+"e_name":"Erin Duvall",
+"e_title":"Personnel Department",
+"e_start_date":"11/10/2000",
+"e_end_date":"2/21/2013"
+},
+{ 
+"e_id":"452",
+"e_ssn":"51786877",
+"e_name":"Adina Needham",
+"e_title":"Advertisement department",
+"e_start_date":"9/27/2008",
+"e_end_date":"6/29/2015"
+},
+{ 
+"e_id":"175",
+"e_ssn":"47192274",
+"e_name":"Vanessa Smith",
+"e_title":"International Operations",
+"e_start_date":"12/31/2000",
+"e_end_date":"9/24/2013"
+},
+{ 
+"e_id":"226",
+"e_ssn":"80633602",
+"e_name":"Courtney Evans",
+"e_title":"Legal and public relation department",
+"e_start_date":"6/17/2007",
+"e_end_date":"7/23/2011"
+},
+{ 
+"e_id":"613",
+"e_ssn":"85737864",
+"e_name":"Barry Hunt",
+"e_title":"Inventory",
+"e_start_date":"3/2/2000",
+"e_end_date":"4/24/2013"
+},
+{ 
+"e_id":"354",
+"e_ssn":"43595752",
+"e_name":"Denis Gosling",
+"e_title":"Property department",
+"e_start_date":"1/24/2000",
+"e_end_date":"4/11/2011"
+},
+{ 
+"e_id":"587",
+"e_ssn":"29831745",
+"e_name":"Roger Daniells",
+"e_title":"Property department",
+"e_start_date":"7/19/1992",
+"e_end_date":"6/7/2017"
+},
+{ 
+"e_id":"740",
+"e_ssn":"58988045",
+"e_name":"Matt Larkin",
+"e_title":"Property department",
+"e_start_date":"7/1/1993",
+"e_end_date":"2/5/2016"
+},
+{ 
+"e_id":"168",
+"e_ssn":"31567885",
+"e_name":"Nathan Clarke",
+"e_title":"International Operations",
+"e_start_date":"3/18/1992",
+"e_end_date":"6/24/2018"
+},
+{ 
+"e_id":"259",
+"e_ssn":"28595325",
+"e_name":"Ema Middleton",
+"e_title":"International Operations",
+"e_start_date":"12/5/1995",
+"e_end_date":"1/22/2012"
+},
+{ 
+"e_id":"872",
+"e_ssn":"59703293",
+"e_name":"Makenzie Butler",
+"e_title":"Property department",
+"e_start_date":"5/7/2009",
+"e_end_date":"8/6/2019"
+},
+{ 
+"e_id":"353",
+"e_ssn":"33900828",
+"e_name":"Tyler Tutton",
+"e_title":"Non-Store Operations",
+"e_start_date":"6/25/2008",
+"e_end_date":"7/13/2015"
+},
+{ 
+"e_id":"179",
+"e_ssn":"37751417",
+"e_name":"Adelaide Irwin",
+"e_title":"Non-Store Operations",
+"e_start_date":"4/11/2004",
+"e_end_date":"4/17/2012"
+},
+{ 
+"e_id":"779",
+"e_ssn":"90643479",
+"e_name":"Nate Whatson",
+"e_title":"Advertisement department",
+"e_start_date":"5/12/1993",
+"e_end_date":"6/7/2012"
+},
+{ 
+"e_id":"777",
+"e_ssn":"62209401",
+"e_name":"Josh Rose",
+"e_title":"Logistics",
+"e_start_date":"2/25/1998",
+"e_end_date":"6/5/2012"
+},
+{ 
+"e_id":"447",
+"e_ssn":"89738506",
+"e_name":"Kimberly Hood",
+"e_title":"Advertisement department",
+"e_start_date":"7/1/1992",
+"e_end_date":"2/28/2018"
+},
+{ 
+"e_id":"206",
+"e_ssn":"59682404",
+"e_name":"Henry Windsor",
+"e_title":"Logistics",
+"e_start_date":"6/12/1997",
+"e_end_date":"3/21/2012"
+},
+{ 
+"e_id":"652",
+"e_ssn":"31433023",
+"e_name":"Chester Collingwood",
+"e_title":"Domestic operations",
+"e_start_date":"4/15/1998",
+"e_end_date":"3/24/2018"
+},
+{ 
+"e_id":"405",
+"e_ssn":"26305781",
+"e_name":"Gina Watson",
+"e_title":"International Operations",
+"e_start_date":"11/24/2003",
+"e_end_date":"1/2/2017"
+},
+{ 
+"e_id":"619",
+"e_ssn":"74907579",
+"e_name":"Fred Stone",
+"e_title":"Property department",
+"e_start_date":"11/19/2005",
+"e_end_date":"4/21/2011"
+},
+{ 
+"e_id":"243",
+"e_ssn":"40948995",
+"e_name":"Matt Gibson",
+"e_title":"Non-Store Operations",
+"e_start_date":"4/19/1991",
+"e_end_date":"8/29/2019"
+},
+{ 
+"e_id":"122",
+"e_ssn":"57647295",
+"e_name":"Mark Gregory",
+"e_title":"Property department",
+"e_start_date":"7/22/1997",
+"e_end_date":"8/17/2012"
+},
+{ 
+"e_id":"483",
+"e_ssn":"98724672",
+"e_name":"Juliet Rodwell",
+"e_title":"Logistics",
+"e_start_date":"7/18/1992",
+"e_end_date":"12/19/2010"
+},
+{ 
+"e_id":"615",
+"e_ssn":"79871374",
+"e_name":"Tom Yard",
+"e_title":"Advertisement department",
+"e_start_date":"4/17/1998",
+"e_end_date":"1/21/2013"
+},
+{ 
+"e_id":"246",
+"e_ssn":"83664864",
+"e_name":"Rick Amstead",
+"e_title":"Domestic operations",
+"e_start_date":"10/28/2002",
+"e_end_date":"1/21/2017"
+},
+{ 
+"e_id":"818",
+"e_ssn":"40474695",
+"e_name":"Kurt Nayler",
+"e_title":"Advertisement department",
+"e_start_date":"12/19/1995",
+"e_end_date":"5/23/2016"
+},
+{ 
+"e_id":"283",
+"e_ssn":"67146427",
+"e_name":"Peter Olivier",
+"e_title":"Logistics",
+"e_start_date":"2/17/1992",
+"e_end_date":"7/29/2017"
+},
+{ 
+"e_id":"668",
+"e_ssn":"39809581",
+"e_name":"Aiden Flynn",
+"e_title":"Advertisement department",
+"e_start_date":"6/8/2007",
+"e_end_date":"5/14/2014"
+},
+{ 
+"e_id":"565",
+"e_ssn":"99242243",
+"e_name":"Laila Furnell",
+"e_title":"Domestic operations",
+"e_start_date":"2/26/2001",
+"e_end_date":"11/25/2010"
+},
+{ 
+"e_id":"843",
+"e_ssn":"23397203",
+"e_name":"David Walker",
+"e_title":"Inventory",
+"e_start_date":"12/27/2002",
+"e_end_date":"12/12/2016"
+},
+{ 
+"e_id":"203",
+"e_ssn":"25929816",
+"e_name":"Julianna Shea",
+"e_title":"Inventory",
+"e_start_date":"12/28/2007",
+"e_end_date":"7/20/2019"
+},
+{ 
+"e_id":"130",
+"e_ssn":"56967888",
+"e_name":"Henry Cox",
+"e_title":"Domestic operations",
+"e_start_date":"6/6/1999",
+"e_end_date":"2/5/2016"
+},
+{ 
+"e_id":"879",
+"e_ssn":"60552144",
+"e_name":"Percy Wilson",
+"e_title":"Inventory",
+"e_start_date":"1/13/1995",
+"e_end_date":"8/18/2016"
+},
+{ 
+"e_id":"533",
+"e_ssn":"31661934",
+"e_name":"Chadwick Knight",
+"e_title":"Advertisement department",
+"e_start_date":"7/9/2002",
+"e_end_date":"8/17/2010"
+},
+{ 
+"e_id":"796",
+"e_ssn":"89408989",
+"e_name":"Julian Rose",
+"e_title":"Property department",
+"e_start_date":"11/8/2007",
+"e_end_date":"4/3/2013"
+},
+{ 
+"e_id":"896",
+"e_ssn":"54569294",
+"e_name":"Blake Healy",
+"e_title":"Logistics",
+"e_start_date":"5/1/1996",
+"e_end_date":"7/13/2015"
+},
+{ 
+"e_id":"914",
+"e_ssn":"28693089",
+"e_name":"Cedrick Stevenson",
+"e_title":"Legal and public relation department",
+"e_start_date":"11/26/2004",
+"e_end_date":"12/12/2015"
+},
+{ 
+"e_id":"370",
+"e_ssn":"26072388",
+"e_name":"Denny Hunt",
+"e_title":"Logistics",
+"e_start_date":"2/3/1992",
+"e_end_date":"12/21/2012"
+},
+{ 
+"e_id":"676",
+"e_ssn":"35901826",
+"e_name":"Valerie Swan",
+"e_title":"Domestic operations",
+"e_start_date":"7/23/1997",
+"e_end_date":"1/25/2011"
+},
+{ 
+"e_id":"561",
+"e_ssn":"22606227",
+"e_name":"Ellen Craig",
+"e_title":"Personnel Department",
+"e_start_date":"8/26/2000",
+"e_end_date":"4/26/2018"
+},
+{ 
+"e_id":"738",
+"e_ssn":"71218503",
+"e_name":"Bryce Russell",
+"e_title":"Logistics",
+"e_start_date":"4/4/2005",
+"e_end_date":"4/21/2015"
+},
+{ 
+"e_id":"717",
+"e_ssn":"44002405",
+"e_name":"Denis Wilkinson",
+"e_title":"International Operations",
+"e_start_date":"4/27/2002",
+"e_end_date":"4/20/2013"
+},
+{ 
+"e_id":"119",
+"e_ssn":"49790006",
+"e_name":"Matthew Robe",
+"e_title":"Logistics",
+"e_start_date":"6/10/1998",
+"e_end_date":"6/11/2014"
+},
+{ 
+"e_id":"692",
+"e_ssn":"57621005",
+"e_name":"Karen Hamilton",
+"e_title":"Legal and public relation department",
+"e_start_date":"11/26/1995",
+"e_end_date":"4/3/2016"
+},
+{ 
+"e_id":"423",
+"e_ssn":"59740852",
+"e_name":"Luke Fox",
+"e_title":"Logistics",
+"e_start_date":"11/17/2001",
+"e_end_date":"6/6/2013"
+},
+{ 
+"e_id":"131",
+"e_ssn":"54454082",
+"e_name":"Thea Neville",
+"e_title":"Personnel Department",
+"e_start_date":"8/21/2007",
+"e_end_date":"10/5/2011"
+},
+{ 
+"e_id":"450",
+"e_ssn":"30717499",
+"e_name":"Hank Alldridge",
+"e_title":"Domestic operations",
+"e_start_date":"12/18/2003",
+"e_end_date":"4/10/2012"
+},
+{ 
+"e_id":"735",
+"e_ssn":"67991848",
+"e_name":"Jazmin Gavin",
+"e_title":"Inventory",
+"e_start_date":"10/28/2000",
+"e_end_date":"10/13/2010"
+},
+{ 
+"e_id":"199",
+"e_ssn":"43101632",
+"e_name":"Harvey Mccormick",
+"e_title":"International Operations",
+"e_start_date":"4/21/2001",
+"e_end_date":"2/10/2014"
+},
+{ 
+"e_id":"489",
+"e_ssn":"84554820",
+"e_name":"Ramon Asher",
+"e_title":"Inventory",
+"e_start_date":"1/20/1991",
+"e_end_date":"2/27/2016"
+},
+{ 
+"e_id":"564",
+"e_ssn":"33121022",
+"e_name":"Eve Harrington",
+"e_title":"Non-Store Operations",
+"e_start_date":"3/7/2007",
+"e_end_date":"5/7/2013"
+},
+{ 
+"e_id":"533",
+"e_ssn":"33787811",
+"e_name":"Judith Douglas",
+"e_title":"Logistics",
+"e_start_date":"9/20/2001",
+"e_end_date":"11/11/2013"
+},
+{ 
+"e_id":"741",
+"e_ssn":"37504479",
+"e_name":"Enoch Rowlands",
+"e_title":"Legal and public relation department",
+"e_start_date":"11/8/2005",
+"e_end_date":"6/18/2014"
+},
+{ 
+"e_id":"496",
+"e_ssn":"75483569",
+"e_name":"Ronald Brooks",
+"e_title":"Non-Store Operations",
+"e_start_date":"8/5/1990",
+"e_end_date":"5/7/2018"
+},
+{ 
+"e_id":"218",
+"e_ssn":"55683216",
+"e_name":"Ron Ellison",
+"e_title":"Domestic operations",
+"e_start_date":"10/22/1996",
+"e_end_date":"12/27/2018"
+},
+{ 
+"e_id":"632",
+"e_ssn":"54011649",
+"e_name":"Roger Morrow",
+"e_title":"Logistics",
+"e_start_date":"2/9/1998",
+"e_end_date":"8/26/2012"
+},
+{ 
+"e_id":"516",
+"e_ssn":"95900131",
+"e_name":"George Donnelly",
+"e_title":"Non-Store Operations",
+"e_start_date":"5/22/1998",
+"e_end_date":"10/13/2013"
+},
+{ 
+"e_id":"258",
+"e_ssn":"28768744",
+"e_name":"Helen Kennedy",
+"e_title":"Non-Store Operations",
+"e_start_date":"11/29/2005",
+"e_end_date":"9/23/2012"
+},
+{ 
+"e_id":"192",
+"e_ssn":"55843967",
+"e_name":"Leslie Jobson",
+"e_title":"Legal and public relation department",
+"e_start_date":"1/22/2004",
+"e_end_date":"10/22/2017"
+},
+{ 
+"e_id":"711",
+"e_ssn":"79666996",
+"e_name":"Eileen Phillips",
+"e_title":"Inventory",
+"e_start_date":"8/6/1991",
+"e_end_date":"5/29/2018"
+},
+{ 
+"e_id":"286",
+"e_ssn":"46176843",
+"e_name":"Sydney Kennedy",
+"e_title":"Non-Store Operations",
+"e_start_date":"8/19/1990",
+"e_end_date":"8/28/2013"
+},
+{ 
+"e_id":"791",
+"e_ssn":"32869419",
+"e_name":"Bob Sinclair",
+"e_title":"Non-Store Operations",
+"e_start_date":"4/3/1997",
+"e_end_date":"5/4/2011"
+},
+{ 
+"e_id":"243",
+"e_ssn":"24094096",
+"e_name":"Adina Lloyd",
+"e_title":"Advertisement department",
+"e_start_date":"4/17/2001",
+"e_end_date":"12/22/2014"
+},
+{ 
+"e_id":"362",
+"e_ssn":"71221569",
+"e_name":"Julian Sherry",
+"e_title":"Personnel Department",
+"e_start_date":"4/27/2001",
+"e_end_date":"5/5/2018"
+},
+{ 
+"e_id":"160",
+"e_ssn":"73678723",
+"e_name":"Dasha Calderwood",
+"e_title":"Domestic operations",
+"e_start_date":"4/17/1993",
+"e_end_date":"11/23/2018"
+},
+{ 
+"e_id":"226",
+"e_ssn":"24824511",
+"e_name":"Robyn Wood",
+"e_title":"Logistics",
+"e_start_date":"6/27/1995",
+"e_end_date":"9/27/2010"
+},
+{ 
+"e_id":"770",
+"e_ssn":"84191086",
+"e_name":"Marina Bell",
+"e_title":"Non-Store Operations",
+"e_start_date":"1/28/1993",
+"e_end_date":"9/2/2016"
+},
+{ 
+"e_id":"948",
+"e_ssn":"86670765",
+"e_name":"Mike Redden",
+"e_title":"Legal and public relation department",
+"e_start_date":"7/16/2004",
+"e_end_date":"9/14/2017"
+},
+{ 
+"e_id":"380",
+"e_ssn":"25765653",
+"e_name":"William Curtis",
+"e_title":"Inventory",
+"e_start_date":"2/24/1992",
+"e_end_date":"1/16/2018"
+},
+{ 
+"e_id":"711",
+"e_ssn":"51458011",
+"e_name":"Rachael Appleton",
+"e_title":"Non-Store Operations",
+"e_start_date":"9/10/2006",
+"e_end_date":"1/16/2014"
+},
+{ 
+"e_id":"115",
+"e_ssn":"31819255",
+"e_name":"Melanie Norris",
+"e_title":"International Operations",
+"e_start_date":"3/29/2000",
+"e_end_date":"6/7/2019"
+},
+{ 
+"e_id":"868",
+"e_ssn":"98950588",
+"e_name":"Jack Moss",
+"e_title":"Logistics",
+"e_start_date":"1/1/1994",
+"e_end_date":"9/15/2015"
+},
+{ 
+"e_id":"855",
+"e_ssn":"73260454",
+"e_name":"George Hewitt",
+"e_title":"Non-Store Operations",
+"e_start_date":"4/14/1993",
+"e_end_date":"9/30/2011"
+},
+{ 
+"e_id":"800",
+"e_ssn":"34822249",
+"e_name":"Rylee Doherty",
+"e_title":"International Operations",
+"e_start_date":"11/5/2002",
+"e_end_date":"10/20/2015"
+},
+{ 
+"e_id":"566",
+"e_ssn":"43098239",
+"e_name":"Mason Wilkinson",
+"e_title":"Inventory",
+"e_start_date":"2/17/1995",
+"e_end_date":"9/30/2014"
+},
+{ 
+"e_id":"123",
+"e_ssn":"44444251",
+"e_name":"Joseph Rossi",
+"e_title":"Domestic operations",
+"e_start_date":"12/24/1993",
+"e_end_date":"6/9/2013"
+},
+{ 
+"e_id":"753",
+"e_ssn":"99833621",
+"e_name":"Monica Johnson",
+"e_title":"Legal and public relation department",
+"e_start_date":"2/24/1995",
+"e_end_date":"3/22/2015"
+},
+{ 
+"e_id":"815",
+"e_ssn":"76820341",
+"e_name":"Erick Donnelly",
+"e_title":"Personnel Department",
+"e_start_date":"4/16/2003",
+"e_end_date":"4/26/2012"
+},
+{ 
+"e_id":"906",
+"e_ssn":"49061919",
+"e_name":"Juliet Mason",
+"e_title":"Advertisement department",
+"e_start_date":"11/23/2007",
+"e_end_date":"9/20/2018"
+},
+{ 
+"e_id":"864",
+"e_ssn":"40978389",
+"e_name":"Zoe Sawyer",
+"e_title":"Legal and public relation department",
+"e_start_date":"1/14/2006",
+"e_end_date":"1/9/2016"
+},
+{ 
+"e_id":"278",
+"e_ssn":"27116854",
+"e_name":"Gladys Knight",
+"e_title":"Legal and public relation department",
+"e_start_date":"12/4/1994",
+"e_end_date":"10/5/2019"
+},
+{ 
+"e_id":"585",
+"e_ssn":"94629343",
+"e_name":"Ron Andersson",
+"e_title":"Logistics",
+"e_start_date":"9/15/2007",
+"e_end_date":"12/15/2014"
+},
+{ 
+"e_id":"874",
+"e_ssn":"41755492",
+"e_name":"Marina Bristow",
+"e_title":"Personnel Department",
+"e_start_date":"9/12/1992",
+"e_end_date":"10/29/2013"
+},
+{ 
+"e_id":"657",
+"e_ssn":"23766842",
+"e_name":"Keira Wilson",
+"e_title":"Advertisement department",
+"e_start_date":"1/17/1995",
+"e_end_date":"12/5/2011"
+},
+{ 
+"e_id":"938",
+"e_ssn":"46748834",
+"e_name":"Bart Baker",
+"e_title":"Property department",
+"e_start_date":"6/18/2001",
+"e_end_date":"1/24/2017"
+},
+{ 
+"e_id":"878",
+"e_ssn":"46585843",
+"e_name":"Jane Connell",
+"e_title":"Legal and public relation department",
+"e_start_date":"7/26/1990",
+"e_end_date":"4/4/2012"
+},
+{ 
+"e_id":"432",
+"e_ssn":"81097121",
+"e_name":"Kenzie Mitchell",
+"e_title":"Property department",
+"e_start_date":"11/21/2000",
+"e_end_date":"10/21/2016"
+},
+{ 
+"e_id":"976",
+"e_ssn":"90392636",
+"e_name":"Matthew Haines",
+"e_title":"Non-Store Operations",
+"e_start_date":"12/22/2003",
+"e_end_date":"12/30/2010"
+},
+{ 
+"e_id":"495",
+"e_ssn":"89389170",
+"e_name":"Doug Lakey",
+"e_title":"Personnel Department",
+"e_start_date":"3/31/2009",
+"e_end_date":"7/12/2015"
+},
+{ 
+"e_id":"128",
+"e_ssn":"35501194",
+"e_name":"Belinda Marshall",
+"e_title":"Personnel Department",
+"e_start_date":"8/29/2003",
+"e_end_date":"10/7/2013"
+},
+{ 
+"e_id":"530",
+"e_ssn":"28526292",
+"e_name":"Courtney Lloyd",
+"e_title":"Property department",
+"e_start_date":"9/25/1996",
+"e_end_date":"8/28/2010"
+},
+{ 
+"e_id":"404",
+"e_ssn":"36913507",
+"e_name":"Tyler Wheeler",
+"e_title":"Domestic operations",
+"e_start_date":"9/18/2001",
+"e_end_date":"6/8/2019"
+},
+{ 
+"e_id":"485",
+"e_ssn":"69970089",
+"e_name":"Rufus Steer",
+"e_title":"Domestic operations",
+"e_start_date":"2/7/1994",
+"e_end_date":"7/12/2011"
+},
+{ 
+"e_id":"544",
+"e_ssn":"85502631",
+"e_name":"Dakota Preston",
+"e_title":"Domestic operations",
+"e_start_date":"8/30/1999",
+"e_end_date":"11/4/2017"
+},
+{ 
+"e_id":"900",
+"e_ssn":"86457889",
+"e_name":"Abdul Sherwood",
+"e_title":"International Operations",
+"e_start_date":"10/3/2007",
+"e_end_date":"8/5/2014"
+},
+{ 
+"e_id":"513",
+"e_ssn":"96544337",
+"e_name":"Peter Gibson",
+"e_title":"Inventory",
+"e_start_date":"3/11/2009",
+"e_end_date":"8/4/2018"
+},
+{ 
+"e_id":"407",
+"e_ssn":"78010594",
+"e_name":"Roger Isaac",
+"e_title":"Logistics",
+"e_start_date":"1/19/1999",
+"e_end_date":"3/9/2012"
+},
+{ 
+"e_id":"380",
+"e_ssn":"45084543",
+"e_name":"Kamila Gray",
+"e_title":"International Operations",
+"e_start_date":"10/31/2005",
+"e_end_date":"5/2/2016"
+},
+{ 
+"e_id":"664",
+"e_ssn":"93081312",
+"e_name":"Moira Poole",
+"e_title":"Advertisement department",
+"e_start_date":"6/9/2006",
+"e_end_date":"10/30/2018"
+},
+{ 
+"e_id":"662",
+"e_ssn":"44277996",
+"e_name":"Ally Bell",
+"e_title":"Domestic operations",
+"e_start_date":"8/30/1993",
+"e_end_date":"3/22/2013"
+},
+{ 
+"e_id":"481",
+"e_ssn":"57685525",
+"e_name":"Valentina Uttridge",
+"e_title":"International Operations",
+"e_start_date":"2/23/1991",
+"e_end_date":"12/23/2018"
+},
+{ 
+"e_id":"973",
+"e_ssn":"84897513",
+"e_name":"Sasha Ebden",
+"e_title":"Domestic operations",
+"e_start_date":"9/10/1994",
+"e_end_date":"5/8/2015"
+},
+{ 
+"e_id":"775",
+"e_ssn":"82109495",
+"e_name":"Kimberly Jordan",
+"e_title":"Domestic operations",
+"e_start_date":"8/29/2004",
+"e_end_date":"3/8/2015"
+},
+{ 
+"e_id":"271",
+"e_ssn":"33378363",
+"e_name":"Daniel Garner",
+"e_title":"Personnel Department",
+"e_start_date":"5/13/2001",
+"e_end_date":"8/5/2013"
+},
+{ 
+"e_id":"928",
+"e_ssn":"64624556",
+"e_name":"Martin Farmer",
+"e_title":"International Operations",
+"e_start_date":"5/21/2001",
+"e_end_date":"2/14/2017"
+},
+{ 
+"e_id":"997",
+"e_ssn":"81715823",
+"e_name":"Erica Carter",
+"e_title":"Logistics",
+"e_start_date":"2/1/2000",
+"e_end_date":"7/7/2014"
+},
+{ 
+"e_id":"781",
+"e_ssn":"63250724",
+"e_name":"Willow Eastwood",
+"e_title":"Domestic operations",
+"e_start_date":"1/9/2009",
+"e_end_date":"2/3/2017"
+},
+{ 
+"e_id":"219",
+"e_ssn":"37525856",
+"e_name":"Sofie Williams",
+"e_title":"Domestic operations",
+"e_start_date":"10/7/2006",
+"e_end_date":"8/24/2014"
+},
+{ 
+"e_id":"969",
+"e_ssn":"37473155",
+"e_name":"Emma May",
+"e_title":"Inventory",
+"e_start_date":"7/4/1995",
+"e_end_date":"11/22/2012"
+},
+{ 
+"e_id":"926",
+"e_ssn":"85184802",
+"e_name":"Peter Redfern",
+"e_title":"Logistics",
+"e_start_date":"6/23/2009",
+"e_end_date":"2/3/2016"
+},
+{ 
+"e_id":"756",
+"e_ssn":"32723102",
+"e_name":"Anthony Bailey",
+"e_title":"Legal and public relation department",
+"e_start_date":"6/15/1998",
+"e_end_date":"6/18/2018"
+},
+{ 
+"e_id":"201",
+"e_ssn":"91325304",
+"e_name":"Cassandra Fall",
+"e_title":"Inventory",
+"e_start_date":"7/23/2002",
+"e_end_date":"3/9/2019"
+},
+{ 
+"e_id":"943",
+"e_ssn":"46828714",
+"e_name":"Penny Warden",
+"e_title":"Legal and public relation department",
+"e_start_date":"6/5/1991",
+"e_end_date":"10/15/2019"
+},
+{ 
+"e_id":"138",
+"e_ssn":"70329040",
+"e_name":"Denny Stewart",
+"e_title":"Inventory",
+"e_start_date":"7/2/2002",
+"e_end_date":"8/8/2013"
+},
+{ 
+"e_id":"276",
+"e_ssn":"22563907",
+"e_name":"Winnie Stanley",
+"e_title":"Advertisement department",
+"e_start_date":"3/17/2004",
+"e_end_date":"6/29/2012"
+},
+{ 
+"e_id":"636",
+"e_ssn":"98251159",
+"e_name":"Barry Sawyer",
+"e_title":"Advertisement department",
+"e_start_date":"12/5/1990",
+"e_end_date":"4/16/2012"
+},
+{ 
+"e_id":"737",
+"e_ssn":"21343150",
+"e_name":"Luke Rigg",
+"e_title":"Logistics",
+"e_start_date":"8/26/1990",
+"e_end_date":"3/29/2013"
+},
+{ 
+"e_id":"213",
+"e_ssn":"31629729",
+"e_name":"Owen John",
+"e_title":"Inventory",
+"e_start_date":"11/21/1991",
+"e_end_date":"3/8/2014"
+},
+{ 
+"e_id":"516",
+"e_ssn":"62396314",
+"e_name":"Phillip Darcy",
+"e_title":"Domestic operations",
+"e_start_date":"2/3/1993",
+"e_end_date":"11/20/2012"
+},
+{ 
+"e_id":"736",
+"e_ssn":"94068865",
+"e_name":"Dalia Andrews",
+"e_title":"Personnel Department",
+"e_start_date":"2/1/1997",
+"e_end_date":"5/22/2015"
+},
+{ 
+"e_id":"913",
+"e_ssn":"22640418",
+"e_name":"Jacqueline Dale",
+"e_title":"Legal and public relation department",
+"e_start_date":"2/28/2008",
+"e_end_date":"1/12/2012"
+},
+{ 
+"e_id":"423",
+"e_ssn":"51448614",
+"e_name":"Chester Douglas",
+"e_title":"Inventory",
+"e_start_date":"6/11/1999",
+"e_end_date":"8/3/2018"
+},
+{ 
+"e_id":"988",
+"e_ssn":"31477966",
+"e_name":"Evie Dwyer",
+"e_title":"Domestic operations",
+"e_start_date":"8/26/2003",
+"e_end_date":"10/31/2015"
+},
+{ 
+"e_id":"368",
+"e_ssn":"34064429",
+"e_name":"Matt Stevens",
+"e_title":"Personnel Department",
+"e_start_date":"7/30/2001",
+"e_end_date":"12/21/2010"
+},
+{ 
+"e_id":"980",
+"e_ssn":"74073190",
+"e_name":"Miley Mitchell",
+"e_title":"Legal and public relation department",
+"e_start_date":"8/5/2005",
+"e_end_date":"3/9/2013"
+},
+{ 
+"e_id":"710",
+"e_ssn":"67708620",
+"e_name":"Daron Burge",
+"e_title":"Logistics",
+"e_start_date":"12/11/2009",
+"e_end_date":"9/1/2016"
+},
+{ 
+"e_id":"808",
+"e_ssn":"57755589",
+"e_name":"Jazmin Terry",
+"e_title":"Personnel Department",
+"e_start_date":"8/28/2007",
+"e_end_date":"10/13/2017"
+},
+{ 
+"e_id":"580",
+"e_ssn":"78752838",
+"e_name":"Wendy Torres",
+"e_title":"Personnel Department",
+"e_start_date":"5/21/1999",
+"e_end_date":"6/24/2014"
+},
+{ 
+"e_id":"849",
+"e_ssn":"54195781",
+"e_name":"Manuel Nobbs",
+"e_title":"Property department",
+"e_start_date":"9/29/2008",
+"e_end_date":"4/2/2019"
+},
+{ 
+"e_id":"201",
+"e_ssn":"62823868",
+"e_name":"Marigold Ralph",
+"e_title":"Inventory",
+"e_start_date":"7/3/1991",
+"e_end_date":"3/12/2017"
+},
+{ 
+"e_id":"761",
+"e_ssn":"30633638",
+"e_name":"Matthew Hill",
+"e_title":"Non-Store Operations",
+"e_start_date":"10/9/2003",
+"e_end_date":"12/13/2011"
+},
+{ 
+"e_id":"104",
+"e_ssn":"24970720",
+"e_name":"Harry Richardson",
+"e_title":"International Operations",
+"e_start_date":"1/5/2007",
+"e_end_date":"5/29/2012"
+},
+{ 
+"e_id":"788",
+"e_ssn":"31851126",
+"e_name":"Benny Walsh",
+"e_title":"Personnel Department",
+"e_start_date":"9/5/2003",
+"e_end_date":"12/9/2012"
+},
+{ 
+"e_id":"658",
+"e_ssn":"76815691",
+"e_name":"Alexia Rixon",
+"e_title":"Logistics",
+"e_start_date":"1/2/2010",
+"e_end_date":"2/2/2013"
+},
+{ 
+"e_id":"615",
+"e_ssn":"64296037",
+"e_name":"Sabrina Morrow",
+"e_title":"Logistics",
+"e_start_date":"11/2/1999",
+"e_end_date":"2/19/2017"
+},
+{ 
+"e_id":"896",
+"e_ssn":"47501822",
+"e_name":"Chester Ripley",
+"e_title":"Domestic operations",
+"e_start_date":"1/13/2002",
+"e_end_date":"1/22/2019"
+},
+{ 
+"e_id":"133",
+"e_ssn":"43712399",
+"e_name":"Domenic Taylor",
+"e_title":"Legal and public relation department",
+"e_start_date":"5/29/2008",
+"e_end_date":"10/29/2018"
+},
+{ 
+"e_id":"215",
+"e_ssn":"58768165",
+"e_name":"Jenna Payne",
+"e_title":"Non-Store Operations",
+"e_start_date":"3/6/2004",
+"e_end_date":"6/20/2014"
+},
+{ 
+"e_id":"589",
+"e_ssn":"29935645",
+"e_name":"Peter Briggs",
+"e_title":"Property department",
+"e_start_date":"7/18/1992",
+"e_end_date":"5/3/2017"
+},
+{ 
+"e_id":"209",
+"e_ssn":"41568537",
+"e_name":"Alan Weatcroft",
+"e_title":"Property department",
+"e_start_date":"11/7/2004",
+"e_end_date":"4/29/2013"
+},
+{ 
+"e_id":"261",
+"e_ssn":"97977757",
+"e_name":"Leslie Owen",
+"e_title":"Logistics",
+"e_start_date":"2/19/1996",
+"e_end_date":"7/6/2011"
+},
+{ 
+"e_id":"256",
+"e_ssn":"20506566",
+"e_name":"Nate Taylor",
+"e_title":"Legal and public relation department",
+"e_start_date":"4/10/1999",
+"e_end_date":"12/29/2016"
+},
+{ 
+"e_id":"951",
+"e_ssn":"34744572",
+"e_name":"Francesca Morris",
+"e_title":"Inventory",
+"e_start_date":"5/15/1999",
+"e_end_date":"10/11/2016"
+},
+{ 
+"e_id":"879",
+"e_ssn":"30406558",
+"e_name":"Denny Lowe",
+"e_title":"International Operations",
+"e_start_date":"12/6/2007",
+"e_end_date":"3/22/2017"
+},
+{ 
+"e_id":"810",
+"e_ssn":"36019803",
+"e_name":"Kassandra Maxwell",
+"e_title":"Legal and public relation department",
+"e_start_date":"4/10/1991",
+"e_end_date":"1/25/2012"
+},
+{ 
+"e_id":"252",
+"e_ssn":"74711916",
+"e_name":"Iris Boden",
+"e_title":"Legal and public relation department",
+"e_start_date":"9/11/2002",
+"e_end_date":"12/26/2017"
+},
+{ 
+"e_id":"313",
+"e_ssn":"76074247",
+"e_name":"Ciara Barclay",
+"e_title":"Property department",
+"e_start_date":"11/1/2005",
+"e_end_date":"12/5/2013"
+},
+{ 
+"e_id":"496",
+"e_ssn":"35713012",
+"e_name":"Elijah Walker",
+"e_title":"Advertisement department",
+"e_start_date":"6/28/2000",
+"e_end_date":"4/19/2014"
+},
+{ 
+"e_id":"883",
+"e_ssn":"78805558",
+"e_name":"Margot Dickson",
+"e_title":"Domestic operations",
+"e_start_date":"9/8/1997",
+"e_end_date":"4/23/2013"
+},
+{ 
+"e_id":"593",
+"e_ssn":"66365705",
+"e_name":"Ivette Reynolds",
+"e_title":"Inventory",
+"e_start_date":"11/5/1996",
+"e_end_date":"1/6/2017"
+},
+{ 
+"e_id":"935",
+"e_ssn":"93175871",
+"e_name":"Carolyn Sloan",
+"e_title":"Domestic operations",
+"e_start_date":"8/15/2006",
+"e_end_date":"4/26/2016"
+},
+{ 
+"e_id":"414",
+"e_ssn":"93369135",
+"e_name":"Savannah Swift",
+"e_title":"Advertisement department",
+"e_start_date":"7/24/1999",
+"e_end_date":"11/29/2015"
+},
+{ 
+"e_id":"237",
+"e_ssn":"52883030",
+"e_name":"Laila Rees",
+"e_title":"International Operations",
+"e_start_date":"3/4/1990",
+"e_end_date":"8/13/2010"
+},
+{ 
+"e_id":"388",
+"e_ssn":"85663082",
+"e_name":"Jack Hudson",
+"e_title":"Inventory",
+"e_start_date":"4/20/1993",
+"e_end_date":"2/17/2018"
+},
+{ 
+"e_id":"956",
+"e_ssn":"50633406",
+"e_name":"Keira Fulton",
+"e_title":"Inventory",
+"e_start_date":"8/7/1990",
+"e_end_date":"1/26/2015"
+},
+{ 
+"e_id":"620",
+"e_ssn":"27829499",
+"e_name":"Margaret Dixon",
+"e_title":"Inventory",
+"e_start_date":"8/11/2001",
+"e_end_date":"8/8/2010"
+},
+{ 
+"e_id":"842",
+"e_ssn":"50547114",
+"e_name":"Nicholas Lewis",
+"e_title":"Inventory",
+"e_start_date":"8/12/1996",
+"e_end_date":"10/2/2011"
+},
+{ 
+"e_id":"456",
+"e_ssn":"96049119",
+"e_name":"Freya Baker",
+"e_title":"Inventory",
+"e_start_date":"6/28/1997",
+"e_end_date":"4/29/2012"
+},
+{ 
+"e_id":"319",
+"e_ssn":"65680603",
+"e_name":"Gil Collingwood",
+"e_title":"Non-Store Operations",
+"e_start_date":"7/23/2005",
+"e_end_date":"2/29/2016"
+},
+{ 
+"e_id":"700",
+"e_ssn":"61158160",
+"e_name":"Doug Adams",
+"e_title":"Inventory",
+"e_start_date":"2/28/1998",
+"e_end_date":"8/29/2013"
+},
+{ 
+"e_id":"293",
+"e_ssn":"29990464",
+"e_name":"Kamila Power",
+"e_title":"Personnel Department",
+"e_start_date":"7/8/1993",
+"e_end_date":"1/5/2011"
+},
+{ 
+"e_id":"804",
+"e_ssn":"80942985",
+"e_name":"Aeris Ramsey",
+"e_title":"Logistics",
+"e_start_date":"7/6/1999",
+"e_end_date":"8/8/2016"
+},
+{ 
+"e_id":"934",
+"e_ssn":"79034166",
+"e_name":"Angelica Roberts",
+"e_title":"Domestic operations",
+"e_start_date":"1/9/2004",
+"e_end_date":"7/2/2018"
+},
+{ 
+"e_id":"510",
+"e_ssn":"93103102",
+"e_name":"Mark Leigh",
+"e_title":"Logistics",
+"e_start_date":"1/8/1998",
+"e_end_date":"3/5/2015"
+},
+{ 
+"e_id":"908",
+"e_ssn":"23771401",
+"e_name":"William Mitchell",
+"e_title":"Non-Store Operations",
+"e_start_date":"6/9/2003",
+"e_end_date":"3/6/2012"
+},
+{ 
+"e_id":"870",
+"e_ssn":"40871990",
+"e_name":"Gloria Aldridge",
+"e_title":"International Operations",
+"e_start_date":"4/6/1990",
+"e_end_date":"2/24/2015"
+},
+{ 
+"e_id":"564",
+"e_ssn":"24493709",
+"e_name":"Alexander Shields",
+"e_title":"Advertisement department",
+"e_start_date":"6/9/1995",
+"e_end_date":"4/27/2016"
+},
+{ 
+"e_id":"473",
+"e_ssn":"30287106",
+"e_name":"Cristal Driscoll",
+"e_title":"Property department",
+"e_start_date":"8/23/2003",
+"e_end_date":"11/6/2019"
+},
+{ 
+"e_id":"732",
+"e_ssn":"64003741",
+"e_name":"Chris Hogg",
+"e_title":"Non-Store Operations",
+"e_start_date":"2/21/2008",
+"e_end_date":"10/29/2013"
+},
+{ 
+"e_id":"507",
+"e_ssn":"57935188",
+"e_name":"Erica Dyson",
+"e_title":"Advertisement department",
+"e_start_date":"3/27/1991",
+"e_end_date":"8/25/2013"
+},
+{ 
+"e_id":"687",
+"e_ssn":"87475713",
+"e_name":"Regina Paterson",
+"e_title":"Logistics",
+"e_start_date":"6/8/2001",
+"e_end_date":"4/7/2017"
+},
+{ 
+"e_id":"812",
+"e_ssn":"52741552",
+"e_name":"Naomi Baker",
+"e_title":"Non-Store Operations",
+"e_start_date":"8/6/1990",
+"e_end_date":"4/8/2011"
+},
+{ 
+"e_id":"836",
+"e_ssn":"32207856",
+"e_name":"Martin Upton",
+"e_title":"Property department",
+"e_start_date":"2/1/1995",
+"e_end_date":"3/29/2019"
+},
+{ 
+"e_id":"407",
+"e_ssn":"83672931",
+"e_name":"Gina Burge",
+"e_title":"Inventory",
+"e_start_date":"12/5/2008",
+"e_end_date":"5/31/2012"
+},
+{ 
+"e_id":"427",
+"e_ssn":"98091025",
+"e_name":"Daron Higgs",
+"e_title":"Property department",
+"e_start_date":"8/25/2003",
+"e_end_date":"7/31/2012"
+},
+{ 
+"e_id":"200",
+"e_ssn":"73383278",
+"e_name":"Mackenzie Nurton",
+"e_title":"Advertisement department",
+"e_start_date":"5/29/1996",
+"e_end_date":"8/7/2012"
+},
+{ 
+"e_id":"475",
+"e_ssn":"55219455",
+"e_name":"Kendra Lane",
+"e_title":"Advertisement department",
+"e_start_date":"5/5/1991",
+"e_end_date":"9/20/2017"
+},
+{ 
+"e_id":"745",
+"e_ssn":"87771130",
+"e_name":"William Stanley",
+"e_title":"Inventory",
+"e_start_date":"7/30/1992",
+"e_end_date":"9/8/2018"
+},
+{ 
+"e_id":"967",
+"e_ssn":"26829762",
+"e_name":"Payton Drummond",
+"e_title":"International Operations",
+"e_start_date":"4/18/2009",
+"e_end_date":"10/21/2012"
+},
+{ 
+"e_id":"138",
+"e_ssn":"58763050",
+"e_name":"Bree Baker",
+"e_title":"International Operations",
+"e_start_date":"8/21/1994",
+"e_end_date":"4/16/2019"
+},
+{ 
+"e_id":"542",
+"e_ssn":"40374761",
+"e_name":"Henry Ebbs",
+"e_title":"Logistics",
+"e_start_date":"3/19/1999",
+"e_end_date":"1/18/2011"
+},
+{ 
+"e_id":"778",
+"e_ssn":"83430231",
+"e_name":"Emerald Welsch",
+"e_title":"Logistics",
+"e_start_date":"8/7/1998",
+"e_end_date":"12/12/2017"
+},
+{ 
+"e_id":"910",
+"e_ssn":"27043708",
+"e_name":"Maddison Paterson",
+"e_title":"International Operations",
+"e_start_date":"5/19/1994",
+"e_end_date":"6/9/2014"
+},
+{ 
+"e_id":"766",
+"e_ssn":"86231663",
+"e_name":"Chad Bowen",
+"e_title":"Domestic operations",
+"e_start_date":"2/15/2008",
+"e_end_date":"3/19/2014"
+},
+{ 
+"e_id":"339",
+"e_ssn":"43275276",
+"e_name":"Mark Taylor",
+"e_title":"Inventory",
+"e_start_date":"6/1/2001",
+"e_end_date":"1/9/2019"
+},
+{ 
+"e_id":"669",
+"e_ssn":"48127954",
+"e_name":"Isabel Rees",
+"e_title":"Logistics",
+"e_start_date":"8/21/2000",
+"e_end_date":"7/23/2014"
+},
+{ 
+"e_id":"929",
+"e_ssn":"76465871",
+"e_name":"Julius Wise",
+"e_title":"Logistics",
+"e_start_date":"6/1/1992",
+"e_end_date":"2/24/2012"
+},
+{ 
+"e_id":"884",
+"e_ssn":"63335211",
+"e_name":"Harry Thatcher",
+"e_title":"Logistics",
+"e_start_date":"2/11/2000",
+"e_end_date":"6/22/2017"
+},
+{ 
+"e_id":"953",
+"e_ssn":"89501070",
+"e_name":"Bob Jefferson",
+"e_title":"Advertisement department",
+"e_start_date":"8/31/1992",
+"e_end_date":"11/23/2013"
+},
+{ 
+"e_id":"309",
+"e_ssn":"41796080",
+"e_name":"Brad Rogan",
+"e_title":"International Operations",
+"e_start_date":"1/25/2003",
+"e_end_date":"7/5/2016"
+},
+{ 
+"e_id":"781",
+"e_ssn":"96030783",
+"e_name":"Carter Glynn",
+"e_title":"Property department",
+"e_start_date":"7/12/1999",
+"e_end_date":"3/14/2011"
+},
+{ 
+"e_id":"393",
+"e_ssn":"39481977",
+"e_name":"Chester Tailor",
+"e_title":"Advertisement department",
+"e_start_date":"4/28/2010",
+"e_end_date":"9/11/2017"
+},
+{ 
+"e_id":"137",
+"e_ssn":"92373233",
+"e_name":"William Skinner",
+"e_title":"Domestic operations",
+"e_start_date":"11/7/2002",
+"e_end_date":"3/30/2016"
+},
+{ 
+"e_id":"678",
+"e_ssn":"35731077",
+"e_name":"Luke Preston",
+"e_title":"Legal and public relation department",
+"e_start_date":"8/17/2003",
+"e_end_date":"6/11/2017"
+},
+{ 
+"e_id":"528",
+"e_ssn":"32757410",
+"e_name":"Eduardo Burge",
+"e_title":"International Operations",
+"e_start_date":"10/28/2005",
+"e_end_date":"7/24/2014"
+},
+{ 
+"e_id":"828",
+"e_ssn":"63799356",
+"e_name":"Tony Wright",
+"e_title":"Advertisement department",
+"e_start_date":"3/26/2002",
+"e_end_date":"9/19/2012"
+},
+{ 
+"e_id":"481",
+"e_ssn":"44468701",
+"e_name":"Meredith Welsch",
+"e_title":"Non-Store Operations",
+"e_start_date":"5/21/1998",
+"e_end_date":"7/21/2018"
+},
+{ 
+"e_id":"252",
+"e_ssn":"98835481",
+"e_name":"Carrie Purvis",
+"e_title":"Personnel Department",
+"e_start_date":"6/13/1998",
+"e_end_date":"12/17/2014"
+},
+{ 
+"e_id":"828",
+"e_ssn":"76779902",
+"e_name":"Stephanie Ingham",
+"e_title":"Non-Store Operations",
+"e_start_date":"5/1/2005",
+"e_end_date":"5/18/2017"
+},
+{ 
+"e_id":"892",
+"e_ssn":"42790489",
+"e_name":"Angelique Niles",
+"e_title":"Property department",
+"e_start_date":"4/28/1992",
+"e_end_date":"2/7/2018"
+},
+{ 
+"e_id":"738",
+"e_ssn":"25346298",
+"e_name":"Lynn Shaw",
+"e_title":"Domestic operations",
+"e_start_date":"1/16/2002",
+"e_end_date":"5/30/2017"
+},
+{ 
+"e_id":"185",
+"e_ssn":"87087035",
+"e_name":"Anthony Allwood",
+"e_title":"Advertisement department",
+"e_start_date":"11/27/1994",
+"e_end_date":"6/16/2015"
+},
+{ 
+"e_id":"141",
+"e_ssn":"97598362",
+"e_name":"Josh Thatcher",
+"e_title":"Non-Store Operations",
+"e_start_date":"7/26/2006",
+"e_end_date":"8/27/2014"
+},
+{ 
+"e_id":"286",
+"e_ssn":"45135105",
+"e_name":"Percy Clark",
+"e_title":"Personnel Department",
+"e_start_date":"6/17/2003",
+"e_end_date":"1/5/2018"
+},
+{ 
+"e_id":"678",
+"e_ssn":"60157036",
+"e_name":"Henry Hammond",
+"e_title":"Personnel Department",
+"e_start_date":"5/28/1990",
+"e_end_date":"9/17/2011"
+},
+{ 
+"e_id":"221",
+"e_ssn":"61538215",
+"e_name":"Nick Dillon",
+"e_title":"Advertisement department",
+"e_start_date":"8/27/1992",
+"e_end_date":"6/1/2013"
+}
+]}
